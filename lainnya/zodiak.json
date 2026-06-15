@@ -1,0 +1,943 @@
+{
+  "author": "@lordsaurus",
+  "total_zodiacs": 12,
+  "last_updated": "2026-06-15",
+  "zodiacs": {
+    "capricorn": {
+      "name": "Capricorn",
+      "indonesian_name": "Kaprikornus",
+      "symbol": "Kambing Laut",
+      "emoji": "🐐",
+      "element": "Bumi",
+      "quality": "Cardinal",
+      "ruling_planet": "Saturnus",
+      "date_range": "22 Desember – 19 Januari",
+      "date_range_en": "December 22 – January 19",
+      "house": "Kesepuluh",
+      "color": "Coklat, Hitam, Abu-abu Tua",
+      "lucky_number": [4, 8, 13, 22],
+      "lucky_day": "Sabtu",
+      "lucky_gemstone": "Garnet, Onyx Hitam",
+      "personality": {
+        "positive": [
+          "Bertanggung jawab",
+          "Disiplin tinggi",
+          "Pekerja keras",
+          "Ambisius",
+          "Sabar",
+          "Praktis",
+          "Setia",
+          "Mandiri",
+          "Profesional",
+          "Terorganisir"
+        ],
+        "negative": [
+          "Perfeksionis berlebihan",
+          "Pesimis",
+          "Kaku",
+          "Sulit memaafkan",
+          "Terlalu serius",
+          "Suka mengontrol",
+          "Cenderung workaholic",
+          "Sulit mengekspresikan emosi"
+        ],
+        "description": "Capricorn adalah zodiak kesepuluh yang dikenal sebagai pribadi paling ambisius dan pekerja keras di antara zodiak lainnya. Mereka memiliki standar tinggi dan perfeksionisme yang kuat. Di balik sikap serius mereka, Capricorn sebenarnya sangat setia dan protektif terhadap orang yang dicintai. Mereka adalah perencana ulung yang selalu memikirkan masa depan dengan matang."
+      },
+      "compatibility": {
+        "best_match": ["Taurus", "Virgo", "Scorpio", "Pisces"],
+        "good_match": ["Capricorn", "Cancer", "Leo"],
+        "challenging": ["Aries", "Gemini", "Libra", "Sagitarius"],
+        "soulmate": "Taurus — keduanya sama-sama mencintai stabilitas dan membangun masa depan bersama"
+      },
+      "career": {
+        "best_careers": [
+          "CEO / Manajer Eksekutif",
+          "Akuntan / Auditor",
+          "Insinyur",
+          "Arsitek",
+          "Pengacara",
+          "Bankir",
+          "Ilmuwan",
+          "Dokter",
+          "Programmer Senior",
+          "Pengusaha"
+        ],
+        "work_style": "Capricorn adalah tipe pekerja yang disiplin, terstruktur, dan selalu tepat waktu. Mereka tidak suka main-main dalam pekerjaan dan selalu berusaha mencapai target dengan efisien. Mereka cocok di posisi kepemimpinan karena kemampuan manajerial yang kuat."
+      },
+      "love_and_relationships": {
+        "love_style": "Capricorn tidak mudah jatuh cinta, tapi sekali berkomitmen mereka sangat setia. Mereka mencari pasangan yang bisa diandalkan dan memiliki visi hidup yang sama.",
+        "as_partner": "Pelindung, penyedia, setia, tapi kadang terlalu sibuk dengan pekerjaan",
+        "love_language": "Acts of Service dan Quality Time"
+      },
+      "health": {
+        "sensitive_areas": ["Tulang dan sendi", "Gigi", "Kulit", "Lutut"],
+        "tips": "Capricorn perlu meluangkan waktu untuk relaksasi dan tidak terlalu memforsir diri dengan pekerjaan. Olahraga ringan seperti yoga dan berenang sangat disarankan."
+      },
+      "famous_people": [
+        "Michelle Obama (17 Januari)",
+        "Denzel Washington (28 Desember)",
+        "Bradley Cooper (5 Januari)",
+        "Zayn Malik (12 Januari)",
+        "Jim Carrey (17 Januari)"
+      ]
+    },
+    "aquarius": {
+      "name": "Aquarius",
+      "indonesian_name": "Akuarius",
+      "symbol": "Pembawa Air",
+      "emoji": "🏺",
+      "element": "Udara",
+      "quality": "Fixed",
+      "ruling_planet": "Uranus (modern), Saturnus (tradisional)",
+      "date_range": "20 Januari – 18 Februari",
+      "date_range_en": "January 20 – February 18",
+      "house": "Kesebelas",
+      "color": "Biru Elektrik, Perak, Turquoise",
+      "lucky_number": [3, 7, 11, 22, 31],
+      "lucky_day": "Rabu",
+      "lucky_gemstone": "Amethyst, Aquamarine",
+      "personality": {
+        "positive": [
+          "Cerdas",
+          "Inovatif",
+          "Visioner",
+          "Humanis",
+          "Mandiri",
+          "Orisinal",
+          "Progresif",
+          "Idealis",
+          "Ramah",
+          "Kreatif"
+        ],
+        "negative": [
+          "Tidak terduga",
+          "Sulit ditebak",
+          "Suka menyendiri (introvert)",
+          "Keras kepala",
+          "Emosional tidak stabil",
+          "Suka memberontak",
+          "Terlalu idealis",
+          "Sulit berkomitmen"
+        ],
+        "description": "Aquarius adalah zodiak paling inovatif dan visioner. Mereka hidup di masa depan dengan ide-ide revolusioner. Meski terlihat introvert, kecerdasan mereka membuat banyak orang terpesona. Aquarius sangat peduli pada isu kemanusiaan dan keadilan sosial. Mereka adalah pemikir bebas yang tidak suka dibatasi aturan konvensional."
+      },
+      "compatibility": {
+        "best_match": ["Gemini", "Libra", "Sagitarius", "Aries"],
+        "good_match": ["Aquarius", "Leo", "Scorpio"],
+        "challenging": ["Taurus", "Cancer", "Virgo", "Pisces"],
+        "soulmate": "Gemini — keduanya adalah pemikir intelektual yang menyukai percakapan mendalam dan kebebasan"
+      },
+      "career": {
+        "best_careers": [
+          "Ilmuwan / Peneliti",
+          "Programmer / Software Engineer",
+          "Astronom",
+          "Aktivis Sosial",
+          "Desainer Grafis",
+          "Fotografer",
+          "Penulis",
+          "DJ / Musisi Elektronik",
+          "Pengusaha Startup",
+          "Futuris"
+        ],
+        "work_style": "Aquarius bekerja paling baik dalam lingkungan yang fleksibel dan inovatif. Mereka tidak suka rutinitas membosankan dan lebih suka proyek yang menantang secara intelektual. Kebebasan adalah kunci produktivitas mereka."
+      },
+      "love_and_relationships": {
+        "love_style": "Aquarius membutuhkan partner yang bisa menghargai kemandiriannya. Mereka bukan tipe romantis tradisional, tapi sangat setia dengan cara mereka sendiri.",
+        "as_partner": "Unik, penuh kejutan, intelektual, tapi kadang terasa jauh secara emosional",
+        "love_language": "Words of Affirmation dan Quality Time"
+      },
+      "health": {
+        "sensitive_areas": ["Sirkulasi darah", "Pergelangan kaki", "Sistem saraf"],
+        "tips": "Aquarius perlu menjaga kesehatan mental dengan meditasi atau aktivitas outdoor. Hindari begadang berlebihan karena bisa mengganggu sirkulasi darah."
+      },
+      "famous_people": [
+        "Cristiano Ronaldo (5 Februari)",
+        "Harry Styles (1 Februari)",
+        "Oprah Winfrey (29 Januari)",
+        "Bob Marley (6 Februari)",
+        "Justin Timberlake (31 Januari)"
+      ]
+    },
+    "pisces": {
+      "name": "Pisces",
+      "indonesian_name": "Pises",
+      "symbol": "Dua Ikan",
+      "emoji": "🐟",
+      "element": "Air",
+      "quality": "Mutable",
+      "ruling_planet": "Neptunus (modern), Jupiter (tradisional)",
+      "date_range": "19 Februari – 20 Maret",
+      "date_range_en": "February 19 – March 20",
+      "house": "Kedua belas",
+      "color": "Ungu Muda, Hijau Laut, Biru Muda",
+      "lucky_number": [3, 7, 12, 16, 21],
+      "lucky_day": "Kamis",
+      "lucky_gemstone": "Aquamarine, Moonstone, Amethyst",
+      "personality": {
+        "positive": [
+          "Empati tinggi",
+          "Kreatif",
+          "Intuitif",
+          "Romantis",
+          "Penyayang",
+          "Pendengar yang baik",
+          "Bijaksana",
+          "Artistik",
+          "Spiritual",
+          "Pemaaf"
+        ],
+        "negative": [
+          "Terlalu sensitif",
+          "Mudah tersinggung",
+          "Suka melarikan diri dari realita",
+          "Cenderung malas",
+          "Sulit mengambil keputusan",
+          "Mudah dipengaruhi",
+          "Overthinking",
+          "Kurang praktis"
+        ],
+        "description": "Pisces adalah zodiak paling empatik dan spiritual. Mereka bisa merasakan perasaan orang lain seolah-olah itu miliknya sendiri. Kreativitas dan imajinasinya tak terbatas. Pisces adalah pendengar terbaik dan selalu siap membantu siapa pun yang kesulitan. Mereka hidup di antara dunia nyata dan dunia mimpi."
+      },
+      "compatibility": {
+        "best_match": ["Cancer", "Scorpio", "Taurus", "Capricorn"],
+        "good_match": ["Pisces", "Virgo", "Sagitarius"],
+        "challenging": ["Gemini", "Leo", "Libra", "Aquarius"],
+        "soulmate": "Scorpio — koneksi emosional yang dalam dan saling memahami tanpa kata-kata"
+      },
+      "career": {
+        "best_careers": [
+          "Seniman / Pelukis",
+          "Musisi",
+          "Penulis / Penyair",
+          "Psikolog / Konselor",
+          "Perawat / Dokter",
+          "Fotografer",
+          "Desainer Fashion",
+          "Aktor / Aktris",
+          "Pekerja Sosial",
+          "Terapis Spiritual"
+        ],
+        "work_style": "Pisces bekerja dengan inspirasi dan emosi. Mereka tidak cocok dengan pekerjaan yang terlalu kaku dan penuh aturan. Lingkungan kerja yang suportif dan kreatif adalah tempat terbaik bagi mereka."
+      },
+      "love_and_relationships": {
+        "love_style": "Pisces adalah pecinta sejati. Mereka romantis, penuh perhatian, dan akan memberikan segalanya untuk pasangan. Tapi hati-hati, mereka bisa terlalu bergantung secara emosional.",
+        "as_partner": "Romantis, perhatian, setia, tapi kadang posesif dan cemburu",
+        "love_language": "Physical Touch dan Words of Affirmation"
+      },
+      "health": {
+        "sensitive_areas": ["Kaki", "Sistem limfatik", "Kesehatan mental"],
+        "tips": "Pisces rentan terhadap stres dan kecemasan. Meditasi, journaling, dan aktivitas kreatif sangat membantu menjaga kesehatan mental mereka."
+      },
+      "famous_people": [
+        "Rihanna (20 Februari)",
+        "Justin Bieber (1 Maret)",
+        "Albert Einstein (14 Maret)",
+        "Steve Jobs (24 Februari)",
+        "Kurt Cobain (20 Februari)"
+      ]
+    },
+    "aries": {
+      "name": "Aries",
+      "indonesian_name": "Aries",
+      "symbol": "Domba Jantan",
+      "emoji": "♈",
+      "element": "Api",
+      "quality": "Cardinal",
+      "ruling_planet": "Mars",
+      "date_range": "21 Maret – 19 April",
+      "date_range_en": "March 21 – April 19",
+      "house": "Pertama",
+      "color": "Merah, Oranye",
+      "lucky_number": [1, 9, 18, 27],
+      "lucky_day": "Selasa",
+      "lucky_gemstone": "Diamond, Ruby, Bloodstone",
+      "personality": {
+        "positive": [
+          "Pemberani",
+          "Bersemangat",
+          "Mandiri",
+          "Pekerja keras",
+          "Antusias",
+          "Jujur",
+          "Optimis",
+          "Kepemimpinan kuat",
+          "Enerjik",
+          "Spontan"
+        ],
+        "negative": [
+          "Impulsif",
+          "Agresif",
+          "Tidak sabaran",
+          "Egois",
+          "Suka mendominasi",
+          "Cepat marah",
+          "Kurang diplomasi",
+          "Sulit mendengarkan"
+        ],
+        "description": "Aries adalah zodiak pertama dan paling energetik. Mereka adalah pelopor alami yang tidak takut mengambil risiko. Semangat dan antusiasme Aries menular ke orang sekitarnya. Mereka adalah tipe orang yang langsung bertindak tanpa banyak berpikir — kadang jadi kekuatan, kadang jadi kelemahan."
+      },
+      "compatibility": {
+        "best_match": ["Leo", "Sagitarius", "Gemini", "Aquarius"],
+        "good_match": ["Aries", "Libra", "Scorpio"],
+        "challenging": ["Cancer", "Capricorn", "Virgo", "Pisces"],
+        "soulmate": "Sagitarius — sama-sama petualang dan penuh semangat, cocok untuk hubungan yang exciting"
+      },
+      "career": {
+        "best_careers": [
+          "Pengusaha / Entrepreneur",
+          "Atlet",
+          "Militer / Tentara",
+          "Pemadam Kebakaran",
+          "Sales / Marketing",
+          "Motivator",
+          "Koki",
+          "Polisi",
+          "Pilot",
+          "Kontraktor"
+        ],
+        "work_style": "Aries bekerja dengan kecepatan dan semangat tinggi. Mereka suka tantangan dan tidak takut mengambil inisiatif. Mereka cocok di posisi yang membutuhkan kepemimpinan dan aksi cepat."
+      },
+      "love_and_relationships": {
+        "love_style": "Aries mencintai dengan intens dan penuh gairah. Mereka suka mengejar dan ditantang. Tapi kebosanan bisa datang cepat kalau hubungan terlalu monoton.",
+        "as_partner": "Bersemangat, protektif, setia, tapi kadang posesif dan dominan",
+        "love_language": "Physical Touch dan Words of Affirmation"
+      },
+      "health": {
+        "sensitive_areas": ["Kepala", "Wajah", "Mata", "Otot"],
+        "tips": "Aries rentan terhadap sakit kepala dan migrain. Olahraga teratur sangat penting untuk menyalurkan energi mereka yang berlebihan."
+      },
+      "famous_people": [
+        "Lady Gaga (28 Maret)",
+        "Robert Downey Jr (4 April)",
+        "Elton John (25 Maret)",
+        "Jackie Chan (7 April)",
+        "Emma Watson (15 April)"
+      ]
+    },
+    "taurus": {
+      "name": "Taurus",
+      "indonesian_name": "Taurus",
+      "symbol": "Banteng",
+      "emoji": "♉",
+      "element": "Bumi",
+      "quality": "Fixed",
+      "ruling_planet": "Venus",
+      "date_range": "20 April – 20 Mei",
+      "date_range_en": "April 20 – May 20",
+      "house": "Kedua",
+      "color": "Hijau, Pink, Krem",
+      "lucky_number": [2, 6, 14, 22, 33],
+      "lucky_day": "Jumat",
+      "lucky_gemstone": "Emerald, Rose Quartz, Sapphire",
+      "personality": {
+        "positive": [
+          "Pekerja keras",
+          "Setia",
+          "Jujur",
+          "Teliti",
+          "Sabar",
+          "Praktis",
+          "Romantis",
+          "Stabil",
+          "Bertanggung jawab",
+          "Dapat diandalkan"
+        ],
+        "negative": [
+          "Keras kepala",
+          "Materialistis",
+          "Posesif",
+          "Sulit berubah",
+          "Malas bergerak",
+          "Cemburu",
+          "Terlalu hati-hati",
+          "Suka menunda"
+        ],
+        "description": "Taurus adalah zodiak paling stabil dan dapat diandalkan. Mereka mencintai kenyamanan, keindahan, dan kemewahan. Di balik sikap tenang mereka, Taurus memiliki tekad baja yang sulit digoyahkan. Mereka adalah tipe pekerja yang tekun dan tidak mudah menyerah."
+      },
+      "compatibility": {
+        "best_match": ["Virgo", "Capricorn", "Cancer", "Pisces"],
+        "good_match": ["Taurus", "Scorpio", "Libra"],
+        "challenging": ["Leo", "Aquarius", "Gemini", "Aries"],
+        "soulmate": "Virgo — keduanya perfeksionis dan membangun kehidupan yang terstruktur bersama"
+      },
+      "career": {
+        "best_careers": [
+          "Bankir / Akuntan",
+          "Koki / Chef",
+          "Desainer Interior",
+          "Seniman",
+          "Petani / Ahli Pertanian",
+          "Arsitek",
+          "Musisi",
+          "Pebisnis Properti",
+          "Fashion Designer",
+          "Pengacara"
+        ],
+        "work_style": "Taurus bekerja dengan ritme yang stabil dan konsisten. Mereka tidak suka dikejar deadline, tapi hasil kerja mereka selalu berkualitas tinggi."
+      },
+      "love_and_relationships": {
+        "love_style": "Taurus adalah pasangan yang paling setia di zodiak. Mereka mencintai dengan lembut, romantis, dan penuh perhatian. Sekali berkomitmen, mereka tidak akan berpaling.",
+        "as_partner": "Romantis, stabil, protektif, tapi kadang cemburu dan posesif",
+        "love_language": "Physical Touch dan Receiving Gifts"
+      },
+      "health": {
+        "sensitive_areas": ["Tenggorokan", "Leher", "Tiroid", "Pita suara"],
+        "tips": "Taurus cenderung malas olahraga, tapi mereka butuh aktivitas fisik rutin. Yoga dan berjalan kaki adalah pilihan yang baik."
+      },
+      "famous_people": [
+        "Dwayne Johnson (2 Mei)",
+        "Adele (5 Mei)",
+        "Gigi Hadid (23 April)",
+        "George Clooney (6 Mei)",
+        "Queen Elizabeth II (21 April)"
+      ]
+    },
+    "gemini": {
+      "name": "Gemini",
+      "indonesian_name": "Gemini",
+      "symbol": "Anak Kembar",
+      "emoji": "♊",
+      "element": "Udara",
+      "quality": "Mutable",
+      "ruling_planet": "Merkurius",
+      "date_range": "21 Mei – 20 Juni",
+      "date_range_en": "May 21 – June 20",
+      "house": "Ketiga",
+      "color": "Kuning, Hijau Muda, Oranye Cerah",
+      "lucky_number": [3, 5, 12, 23, 34],
+      "lucky_day": "Rabu",
+      "lucky_gemstone": "Agate, Citrine, Tiger's Eye",
+      "personality": {
+        "positive": [
+          "Mudah bergaul",
+          "Cerdas",
+          "Adaptif",
+          "Komunikatif",
+          "Witty (cerdas & lucu)",
+          "Fleksibel",
+          "Kreatif",
+          "Serba bisa",
+          "Cepat belajar",
+          "Energik"
+        ],
+        "negative": [
+          "Tidak konsisten",
+          "Moody",
+          "Overthinking",
+          "Sulit berkomitmen",
+          "Gampang bosan",
+          "Suka gosip",
+          "Dangkal",
+          "Cemas berlebihan"
+        ],
+        "description": "Gemini adalah zodiak paling komunikatif dan serba bisa. Mereka bisa berbicara tentang apa saja dengan siapa saja. Kecerdasan dan rasa ingin tahu mereka yang tinggi membuat mereka selalu haus akan informasi baru. Tapi di balik sisi ekstrovertnya, Gemini juga butuh waktu sendiri untuk recharge."
+      },
+      "compatibility": {
+        "best_match": ["Libra", "Aquarius", "Aries", "Leo"],
+        "good_match": ["Gemini", "Sagitarius", "Virgo"],
+        "challenging": ["Pisces", "Scorpio", "Taurus", "Capricorn"],
+        "soulmate": "Libra — kecocokan intelektual dan sosial yang sempurna, obrolan tak pernah berhenti"
+      },
+      "career": {
+        "best_careers": [
+          "Jurnalis / Wartawan",
+          "Presenter / MC",
+          "Penulis",
+          "Guru / Dosen",
+          "Sales / Marketing",
+          "Public Relations",
+          "Content Creator",
+          "Translator",
+          "Sopir / Pilot",
+          "Aktor"
+        ],
+        "work_style": "Gemini butuh variasi dalam pekerjaan. Mereka tidak bisa diam terlalu lama. Pekerjaan yang melibatkan komunikasi dan mobilitas tinggi adalah yang terbaik."
+      },
+      "love_and_relationships": {
+        "love_style": "Gemini mencintai dengan pikiran dulu baru hati. Mereka butuh stimulasi mental dari pasangan. Kebosanan adalah musuh terbesar mereka dalam hubungan.",
+        "as_partner": "Fun, komunikatif, penuh kejutan, tapi kadang tidak bisa diandalkan",
+        "love_language": "Words of Affirmation dan Quality Time"
+      },
+      "health": {
+        "sensitive_areas": ["Paru-paru", "Tangan", "Lengan", "Sistem saraf"],
+        "tips": "Gemini rentan terhadap kecemasan dan insomnia. Meditasi dan mengurangi kafein bisa sangat membantu."
+      },
+      "famous_people": [
+        "Angelina Jolie (4 Juni)",
+        "Johnny Depp (9 Juni)",
+        "Kanye West (8 Juni)",
+        "Natalie Portman (9 Juni)",
+        "Morgan Freeman (1 Juni)"
+      ]
+    },
+    "cancer": {
+      "name": "Cancer",
+      "indonesian_name": "Kanser",
+      "symbol": "Kepiting",
+      "emoji": "♋",
+      "element": "Air",
+      "quality": "Cardinal",
+      "ruling_planet": "Bulan",
+      "date_range": "21 Juni – 22 Juli",
+      "date_range_en": "June 21 – July 22",
+      "house": "Keempat",
+      "color": "Putih, Perak, Biru Muda",
+      "lucky_number": [2, 7, 11, 20, 29],
+      "lucky_day": "Senin",
+      "lucky_gemstone": "Pearl, Moonstone, Ruby",
+      "personality": {
+        "positive": [
+          "Penyayang",
+          "Intuitif",
+          "Kreatif",
+          "Protektif",
+          "Setia",
+          "Imajinatif",
+          "Empati",
+          "Peka",
+          "Ramah",
+          "Romantis"
+        ],
+        "negative": [
+          "Moody",
+          "Terlalu sensitif",
+          "Cemas",
+          "Sulit memaafkan",
+          "Cenderung menarik diri",
+          "Posesif",
+          "Manipulatif",
+          "Mudah tersinggung"
+        ],
+        "description": "Cancer adalah zodiak paling emosional dan nurturing. Mereka sangat terikat dengan keluarga dan rumah. Kreativitas Cancer luar biasa, terutama dalam seni dan masakan. Meski terlihat kuat di luar, di dalam mereka sangat sensitif dan mudah terluka."
+      },
+      "compatibility": {
+        "best_match": ["Scorpio", "Pisces", "Taurus", "Virgo"],
+        "good_match": ["Cancer", "Capricorn", "Leo"],
+        "challenging": ["Aries", "Libra", "Sagitarius", "Aquarius"],
+        "soulmate": "Pisces — koneksi emosional yang dalam, saling memahami perasaan tanpa perlu bicara"
+      },
+      "career": {
+        "best_careers": [
+          "Koki / Chef",
+          "Perawat",
+          "Psikolog",
+          "Penulis",
+          "Guru TK / SD",
+          "Desainer Interior",
+          "Fotografer",
+          "Pekerja Sosial",
+          "Pengusaha Restoran",
+          "Seniman"
+        ],
+        "work_style": "Cancer bekerja paling baik di lingkungan yang nyaman dan suportif. Mereka sangat loyal kepada perusahaan atau tim. Mereka butuh apresiasi emosional atas kerja kerasnya."
+      },
+      "love_and_relationships": {
+        "love_style": "Cancer mencintai sepenuh hati. Mereka akan merawat pasangan seperti merawat diri sendiri. Tapi mereka juga sangat posesif dan protektif.",
+        "as_partner": "Perhatian, romantis, setia, tapi kadang clingy dan cemburuan",
+        "love_language": "Quality Time dan Acts of Service"
+      },
+      "health": {
+        "sensitive_areas": ["Lambung", "Payudara", "Sistem pencernaan"],
+        "tips": "Cancer rentan terhadap masalah pencernaan karena emosi yang tidak stabil. Diet seimbang dan olahraga ringan sangat penting."
+      },
+      "famous_people": [
+        "Tom Cruise (3 Juli)",
+        "Princess Diana (1 Juli)",
+        "Meryl Streep (22 Juni)",
+        "Selena Gomez (22 Juli)",
+        "Ariana Grande (26 Juni)"
+      ]
+    },
+    "leo": {
+      "name": "Leo",
+      "indonesian_name": "Leo",
+      "symbol": "Singa",
+      "emoji": "♌",
+      "element": "Api",
+      "quality": "Fixed",
+      "ruling_planet": "Matahari",
+      "date_range": "23 Juli – 22 Agustus",
+      "date_range_en": "July 23 – August 22",
+      "house": "Kelima",
+      "color": "Emas, Oranye, Kuning Cerah",
+      "lucky_number": [1, 5, 10, 19, 28],
+      "lucky_day": "Minggu",
+      "lucky_gemstone": "Ruby, Citrine, Amber",
+      "personality": {
+        "positive": [
+          "Karismatik",
+          "Percaya diri",
+          "Murah hati",
+          "Kreatif",
+          "Setia",
+          "Bersemangat",
+          "Optimis",
+          "Pemberani",
+          "Kepemimpinan alami",
+          "Ramah"
+        ],
+        "negative": [
+          "Sombong",
+          "Dominan",
+          "Butuh perhatian berlebihan",
+          "Dramatis",
+          "Egois",
+          "Keras kepala",
+          "Boros",
+          "Sulit menerima kritik"
+        ],
+        "description": "Leo adalah raja/ratu zodiak. Mereka terlahir untuk bersinar dan memimpin. Karisma Leo sulit ditandingi — mereka otomatis jadi pusat perhatian di mana pun berada. Di balik kepercayaan diri yang besar, Leo sebenarnya sangat hangat dan protektif terhadap orang yang mereka sayangi."
+      },
+      "compatibility": {
+        "best_match": ["Aries", "Sagitarius", "Gemini", "Libra"],
+        "good_match": ["Leo", "Cancer", "Scorpio"],
+        "challenging": ["Taurus", "Virgo", "Capricorn", "Pisces"],
+        "soulmate": "Sagitarius — sama-sama penuh semangat, suka petualangan, dan saling menginspirasi"
+      },
+      "career": {
+        "best_careers": [
+          "Aktor / Aktris",
+          "CEO / Direktur",
+          "Politikus",
+          "Motivator",
+          "Desainer Fashion",
+          "Sutradara",
+          "Event Organizer",
+          "Atlet",
+          "Presenter TV",
+          "Pengusaha"
+        ],
+        "work_style": "Leo butuh posisi di mana mereka bisa bersinar. Mereka adalah pemimpin alami yang bisa menginspirasi tim. Pekerjaan di belakang layar bukan untuk mereka."
+      },
+      "love_and_relationships": {
+        "love_style": "Leo mencintai dengan megah dan penuh gairah. Mereka ingin pasangan yang bisa mengagumi dan mendukung mereka. Loyalitas Leo terhadap pasangan sangat kuat.",
+        "as_partner": "Romantis, murah hati, setia, tapi kadang posesif dan butuh banyak perhatian",
+        "love_language": "Receiving Gifts dan Words of Affirmation"
+      },
+      "health": {
+        "sensitive_areas": ["Jantung", "Punggung", "Tulang belakang"],
+        "tips": "Leo harus menjaga kesehatan jantung. Olahraga kardio dan mengurangi makanan berlemak sangat disarankan."
+      },
+      "famous_people": [
+        "Barack Obama (4 Agustus)",
+        "Jennifer Lopez (24 Juli)",
+        "Chris Hemsworth (11 Agustus)",
+        "Madonna (16 Agustus)",
+        "Kylie Jenner (10 Agustus)"
+      ]
+    },
+    "virgo": {
+      "name": "Virgo",
+      "indonesian_name": "Virgo",
+      "symbol": "Gadis Perawan",
+      "emoji": "♍",
+      "element": "Bumi",
+      "quality": "Mutable",
+      "ruling_planet": "Merkurius",
+      "date_range": "23 Agustus – 22 September",
+      "date_range_en": "August 23 – September 22",
+      "house": "Keenam",
+      "color": "Hijau Tua, Coklat, Putih",
+      "lucky_number": [3, 6, 15, 24, 33],
+      "lucky_day": "Rabu",
+      "lucky_gemstone": "Sapphire, Jade, Peridot",
+      "personality": {
+        "positive": [
+          "Teliti",
+          "Analitis",
+          "Cerdas",
+          "Pekerja keras",
+          "Sederhana",
+          "Rendah hati",
+          "Setia",
+          "Praktis",
+          "Terorganisir",
+          "Perfeksionis"
+        ],
+        "negative": [
+          "Terlalu kritis",
+          "Overthinking",
+          "Khawatir berlebihan",
+          "Sulit rileks",
+          "Judgmental",
+          "Pelit",
+          "Kaku",
+          "Sulit memaafkan diri sendiri"
+        ],
+        "description": "Virgo adalah zodiak paling analitis dan perfeksionis. Mereka memperhatikan detail yang bahkan tidak dilihat orang lain. Di balik ketenangan mereka, Virgo sebenarnya menyimpan banyak pikiran dan kekhawatiran. Mereka adalah teman yang bisa diandalkan dalam situasi apa pun."
+      },
+      "compatibility": {
+        "best_match": ["Taurus", "Capricorn", "Cancer", "Scorpio"],
+        "good_match": ["Virgo", "Pisces", "Gemini"],
+        "challenging": ["Aries", "Sagitarius", "Aquarius", "Leo"],
+        "soulmate": "Capricorn — pasangan power couple yang membangun kerajaan bersama dengan kerja keras"
+      },
+      "career": {
+        "best_careers": [
+          "Dokter / Ahli Bedah",
+          "Akuntan / Auditor",
+          "Peneliti / Ilmuwan",
+          "Editor / Proofreader",
+          "Programmer",
+          "Ahli Gizi",
+          "Guru",
+          "Analis Data",
+          "Apoteker",
+          "Pengacara"
+        ],
+        "work_style": "Virgo adalah tipe pekerja yang metodis dan efisien. Mereka suka checklist dan target yang jelas. Pekerjaan yang membutuhkan ketelitian tinggi adalah spesialisasi mereka."
+      },
+      "love_and_relationships": {
+        "love_style": "Virgo tidak mudah jatuh cinta karena standar mereka tinggi. Tapi sekali jatuh cinta, mereka sangat setia dan perhatian, meski tidak romantis secara konvensional.",
+        "as_partner": "Setia, perhatian, praktis, tapi kadang terlalu kritis",
+        "love_language": "Acts of Service dan Quality Time"
+      },
+      "health": {
+        "sensitive_areas": ["Sistem pencernaan", "Usus", "Sistem saraf"],
+        "tips": "Virgo rentan terhadap stres dan masalah pencernaan. Pola makan bersih (clean eating) dan yoga sangat membantu."
+      },
+      "famous_people": [
+        "Beyonce (4 September)",
+        "Zendaya (1 September)",
+        "Keanu Reeves (2 September)",
+        "Michael Jackson (29 Agustus)",
+        "Idris Elba (6 September)"
+      ]
+    },
+    "libra": {
+      "name": "Libra",
+      "indonesian_name": "Libra",
+      "symbol": "Timbangan",
+      "emoji": "♎",
+      "element": "Udara",
+      "quality": "Cardinal",
+      "ruling_planet": "Venus",
+      "date_range": "23 September – 22 Oktober",
+      "date_range_en": "September 23 – October 22",
+      "house": "Ketujuh",
+      "color": "Pink, Biru Muda, Pastel",
+      "lucky_number": [4, 8, 13, 22, 31],
+      "lucky_day": "Jumat",
+      "lucky_gemstone": "Opal, Lapis Lazuli, Rose Quartz",
+      "personality": {
+        "positive": [
+          "Adil",
+          "Diplomatis",
+          "Ramah",
+          "Anggun",
+          "Romantis",
+          "Sosial",
+          "Kreatif",
+          "Kooperatif",
+          "Berbudi baik",
+          "Estetis"
+        ],
+        "negative": [
+          "Ragu-ragu",
+          "Sulit mengambil keputusan",
+          "Menghindari konflik",
+          "Mudah terpengaruh",
+          "Permukaan (dangkal)",
+          "Malas konfrontasi",
+          "People pleaser",
+          "Mudah bosan"
+        ],
+        "description": "Libra adalah zodiak paling seimbang dan adil. Mereka mencintai keindahan, harmoni, dan kedamaian. Libra adalah diplomat ulung yang bisa menengahi konflik apa pun. Mereka sangat sosial dan benci kesepian. Tapi kelemahan terbesar mereka adalah sulit mengambil keputusan."
+      },
+      "compatibility": {
+        "best_match": ["Gemini", "Aquarius", "Leo", "Sagitarius"],
+        "good_match": ["Libra", "Aries", "Taurus"],
+        "challenging": ["Cancer", "Capricorn", "Virgo", "Pisces"],
+        "soulmate": "Gemini — obrolan tak ada habisnya, saling memahami secara intelektual dan sosial"
+      },
+      "career": {
+        "best_careers": [
+          "Hakim / Pengacara",
+          "Diplomat",
+          "Desainer Grafis",
+          "Fashion Stylist",
+          "Public Relations",
+          "Interior Designer",
+          "Art Director",
+          "Musisi",
+          "Konsultan",
+          "HR Manager"
+        ],
+        "work_style": "Libra bekerja paling baik dalam tim yang harmonis. Mereka tidak suka konflik di tempat kerja. Lingkungan yang indah dan estetik meningkatkan produktivitas mereka."
+      },
+      "love_and_relationships": {
+        "love_style": "Libra adalah zodiak paling romantis. Mereka mencintai cinta itu sendiri. Libra butuh pasangan untuk merasa lengkap — kadang ini jadi kelemahan.",
+        "as_partner": "Romantis, perhatian, pengertian, tapi kadang terlalu bergantung",
+        "love_language": "Words of Affirmation dan Physical Touch"
+      },
+      "health": {
+        "sensitive_areas": ["Ginjal", "Kulit", "Punggung bawah"],
+        "tips": "Libra perlu menjaga keseimbangan gula darah. Olahraga yang melibatkan pasangan seperti dansa sangat cocok."
+      },
+      "famous_people": [
+        "Will Smith (25 September)",
+        "Kim Kardashian (21 Oktober)",
+        "Eminem (17 Oktober)",
+        "Bruno Mars (8 Oktober)",
+        "Ryan Reynolds (23 Oktober)"
+      ]
+    },
+    "scorpio": {
+      "name": "Scorpio",
+      "indonesian_name": "Skorpio",
+      "symbol": "Kalajengking",
+      "emoji": "♏",
+      "element": "Air",
+      "quality": "Fixed",
+      "ruling_planet": "Pluto (modern), Mars (tradisional)",
+      "date_range": "23 Oktober – 21 November",
+      "date_range_en": "October 23 – November 21",
+      "house": "Kedelapan",
+      "color": "Merah Tua, Hitam, Ungu Gelap",
+      "lucky_number": [8, 11, 18, 22, 44],
+      "lucky_day": "Selasa",
+      "lucky_gemstone": "Topaz, Obsidian, Garnet",
+      "personality": {
+        "positive": [
+          "Pemberani",
+          "Setia",
+          "Determinasi tinggi",
+          "Intuitif",
+          "Bergairah",
+          "Pekerja keras",
+          "Jujur",
+          "Protektif",
+          "Magnetis",
+          "Transformasi diri kuat"
+        ],
+        "negative": [
+          "Pencemburu",
+          "Pendendam",
+          "Obsesif",
+          "Manipulatif",
+          "Tertutup",
+          "Sulit percaya",
+          "Agresif",
+          "Sarkastik"
+        ],
+        "description": "Scorpio adalah zodiak paling intens dan misterius. Mereka memiliki kekuatan emosional yang luar biasa. Scorpio sangat setia dan akan melakukan apa saja untuk orang yang dicintai. Tapi kalau disakiti, mereka bisa menjadi musuh paling berbahaya. Tidak ada yang setengah-setengah dari Scorpio — semua atau tidak sama sekali."
+      },
+      "compatibility": {
+        "best_match": ["Cancer", "Pisces", "Virgo", "Capricorn"],
+        "good_match": ["Scorpio", "Taurus", "Leo"],
+        "challenging": ["Aries", "Gemini", "Sagitarius", "Aquarius"],
+        "soulmate": "Pisces — chemistry emosional dan spiritual yang tak tertandingi, saling memahami ke dalaman jiwa"
+      },
+      "career": {
+        "best_careers": [
+          "Detektif / Investigator",
+          "Psikolog / Psikiater",
+          "Ahli Bedah",
+          "Peneliti Forensik",
+          "Jaksa / Pengacara Kriminal",
+          "Ilmuwan",
+          "Spy / Intelijen",
+          "Pemimpin Militer",
+          "Banker Investasi",
+          "Terapis"
+        ],
+        "work_style": "Scorpio bekerja dengan intensitas dan fokus yang luar biasa. Mereka tidak berhenti sampai tujuan tercapai. Mereka cocok untuk pekerjaan yang membutuhkan investigasi mendalam."
+      },
+      "love_and_relationships": {
+        "love_style": "Scorpio mencintai dengan intens dan penuh gairah. Mereka butuh koneksi jiwa yang dalam, bukan sekadar hubungan permukaan. Sekali berkomitmen, mereka setia sampai mati.",
+        "as_partner": "Bergairah, setia, protektif, tapi kadang cemburu buta dan posesif",
+        "love_language": "Physical Touch dan Quality Time"
+      },
+      "health": {
+        "sensitive_areas": ["Organ reproduksi", "Sistem ekskresi", "Hidung"],
+        "tips": "Scorpio menyimpan banyak emosi yang bisa mempengaruhi kesehatan. Terapi emosional dan olahraga intens sangat membantu."
+      },
+      "famous_people": [
+        "Leonardo DiCaprio (11 November)",
+        "Bill Gates (28 Oktober)",
+        "Kris Jenner (5 November)",
+        "Ryan Gosling (12 November)",
+        "Katy Perry (25 Oktober)"
+      ]
+    },
+    "sagitarius": {
+      "name": "Sagitarius",
+      "indonesian_name": "Sagitarius",
+      "symbol": "Pemanah (Centaur)",
+      "emoji": "♐",
+      "element": "Api",
+      "quality": "Mutable",
+      "ruling_planet": "Jupiter",
+      "date_range": "22 November – 21 Desember",
+      "date_range_en": "November 22 – December 21",
+      "house": "Kesembilan",
+      "color": "Ungu, Biru Tua, Oranye",
+      "lucky_number": [3, 7, 9, 12, 21],
+      "lucky_day": "Kamis",
+      "lucky_gemstone": "Turquoise, Topaz, Amethyst",
+      "personality": {
+        "positive": [
+          "Optimis",
+          "Petualang",
+          "Jujur",
+          "Bersemangat",
+          "Murah hati",
+          "Filosofis",
+          "Berani",
+          "Terbuka",
+          "Humoris",
+          "Visioner"
+        ],
+        "negative": [
+          "Tidak sabaran",
+          "Ceroboh",
+          "Terlalu blak-blakan (brutal honesty)",
+          "Tidak bisa diam",
+          "Sulit berkomitmen",
+          "Kurang sensitif",
+          "Suka berlebihan",
+          "Mudah bosan"
+        ],
+        "description": "Sagitarius adalah zodiak paling optimis dan petualang. Mereka selalu mencari makna hidup melalui pengalaman baru. Kejujuran Sagitarius kadang brutal — mereka mengatakan apa yang dipikirkan tanpa filter. Mereka tidak suka terikat aturan dan selalu ingin menjelajahi hal baru."
+      },
+      "compatibility": {
+        "best_match": ["Aries", "Leo", "Libra", "Aquarius"],
+        "good_match": ["Sagitarius", "Gemini", "Scorpio"],
+        "challenging": ["Taurus", "Cancer", "Virgo", "Pisces"],
+        "soulmate": "Leo — pasangan penuh semangat dan petualangan, saling mendorong untuk berkembang"
+      },
+      "career": {
+        "best_careers": [
+          "Travel Blogger / Vlogger",
+          "Fotografer",
+          "Pilot / Pramugari",
+          "Dosen / Profesor",
+          "Filsuf",
+          "Pengusaha",
+          "Atlet",
+          "Penulis",
+          "Motivator",
+          "Tour Guide"
+        ],
+        "work_style": "Sagitarius tidak bisa kerja di kubikel sepanjang hari. Mereka butuh kebebasan dan variasi. Pekerjaan yang melibatkan perjalanan adalah impian mereka."
+      },
+      "love_and_relationships": {
+        "love_style": "Sagitarius mencintai kebebasan — bahkan dalam hubungan. Mereka butuh pasangan yang bisa memberi ruang dan tidak posesif. Petualangan bersama adalah bentuk cinta mereka.",
+        "as_partner": "Fun, spontan, jujur, tapi kadang komitmen-phobia dan kasar dalam berbicara",
+        "love_language": "Quality Time dan Physical Touch"
+      },
+      "health": {
+        "sensitive_areas": ["Pinggul", "Paha", "Liver"],
+        "tips": "Sagitarius suka berlebihan dalam makan dan minum. Olahraga outdoor seperti hiking dan bersepeda sangat cocok."
+      },
+      "famous_people": [
+        "Taylor Swift (13 Desember)",
+        "Brad Pitt (18 Desember)",
+        "Nicki Minaj (8 Desember)",
+        "Jay-Z (4 Desember)",
+        "Britney Spears (2 Desember)"
+      ]
+    }
+  }
+      }
