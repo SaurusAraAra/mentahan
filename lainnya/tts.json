@@ -175,5 +175,99 @@
       {"no": 3, "soal": "Coli atau colmek bisa disebut dengan.", "jawaban": "Masturbasi"},
       {"no": 6, "soal": "Apa sebutan untuk rambut / bulu dibagian kemaluan.", "jawaban": "Jembut"}
     ]
+  },
+  {
+    "index": 11,
+    "image": "https://cdn.synoxcloud.xyz/tts/s941uba0k49j.png",
+    "mendatar": [
+      {"no": 4, "soal": "Yang bisa dimakan.", "jawaban": "Makanan"},
+      {"no": 5, "soal": "Kalau semua pintu jadi jendela, apa yang hilang?", "jawaban": "Privasi"},
+      {"no": 8, "soal": "Apa yang dilakukan orang orang jika iri melihat pasangan orang lain di tiktok, dan komennya komen apa?", "jawaban": "When yah"}
+    ],
+    "menurun": [
+      {"no": 1, "soal": "Game plagiat freefire.", "jawaban": "Sigma"},
+      {"no": 2, "soal": "Pada tahun 2020 terdapat?", "jawaban": "Corona"},
+      {"no": 3, "soal": "Apa yang selalu naik tapi tidak pernah turun?", "jawaban": "Umur"},
+      {"no": 6, "soal": "Hewan yang bisa berenang.", "jawaban": "Ikan"},
+      {"no": 7, "soal": "Yang sering dipakai anak sekolah.", "jawaban": "Tas"}
+    ]
+  },
+  {
+    "index": 12,
+    "image": "https://cdn.synoxcloud.xyz/tts/2ckmzamggi5d.png",
+    "mendatar": [
+      {"no": 2, "soal": "Apa yang bisa menghilang saat dicari?", "jawaban": "Ide"},
+      {"no": 3, "soal": "Apa yang lahir setiap pagi lalu mati setiap malam?", "jawaban": "Hari"},
+      {"no": 5, "soal": "Apa yang semakin dikejar semakin jauh?", "jawaban": "Pelangi"},
+      {"no": 6, "soal": "Apa yang tidak punya mulut tapi bisa menelan?", "jawaban": "Lubang"}
+    ],
+    "menurun": [
+      {"no": 1, "soal": "Apa yang paling berat saat hilang?", "jawaban": "Kepercayaan"},
+      {"no": 4, "soal": "Apa yang tidak bernapas tetapi bisa hidup?", "jawaban": "Api"}
+    ]
+  },
+  {
+    "index": 13,
+    "image": "https://c.top4top.io/p_3830rcqyd1.jpg",
+    "mendatar": [
+      {"no": 3, "soal": "Waktu dimulainya puasa.", "jawaban": "Imsak"},
+      {"no": 5, "soal": "Bulan penuh keberkahan.", "jawaban": "Ramadan"},
+      {"no": 8, "soal": "Makan dan minum sebelum puasa.", "jawaban": "Sahur"},
+      {"no": 9, "soal": "Berdiam diri di masjid dalam rangka ibadah kepada Allah.", "jawaban": "Itikaf"}
+    ],
+    "menurun": [
+      {"no": 1, "soal": "Kitab suci umat Islam.", "jawaban": "Alquran"},
+      {"no": 2, "soal": "Menahan makan dan minum serta pembatalnya dari terbit fajar hingga terbenam matahari.", "jawaban": "Puasa"},
+      {"no": 4, "soal": "Salat malam berjemaah setelah Isya di bulan Ramadan.", "jawaban": "Tarawih"},
+      {"no": 6, "soal": "Waktu berbuka puasa.", "jawaban": "Magrib"},
+      {"no": 7, "soal": "Makan dan minum setelah puasa.", "jawaban": "Ifthar"}
+    ]
+  },
+  {
+    "index": 14,
+    "image": "https://cdn.synoxcloud.xyz/tts/f91hf05h7f07.png",
+    "mendatar": [
+      {"no": 1, "soal": "Alat pelindung diri.", "jawaban": "Masker"},
+      {"no": 4, "soal": "Virus yang menjadi pandemi.", "jawaban": "Korona"},
+      {"no": 5, "soal": "Obat pereda nyeri.", "jawaban": "Analgesik"},
+      {"no": 6, "soal": "Kondisi gula darah tidak terkendali.", "jawaban": "Diabetes"}
+    ],
+    "menurun": [
+      {"no": 2, "soal": "Penyakit mata yang bisa menimbulkan kebutaan.", "jawaban": "Katarak"},
+      {"no": 3, "soal": "Faktor risiko penyakit jantung.", "jawaban": "Kolesterol"},
+      {"no": 7, "soal": "Olahraga untuk kebugaran jantung dan paru-paru.", "jawaban": "Jogging"}
+    ]
+  },
+  {
+    "index": 15,
+    "image": "https://cdn.synoxcloud.xyz/tts/m0pa1fh6wryv.jpg",
+    "mendatar": [
+      {"no": 1, "soal": "Alat angkut serba bisa.", "jawaban": "Quicktruck"},
+      {"no": 3, "soal": "Jagonya manjal lahan terasering.", "jawaban": "Handtractol"},
+      {"no": 5, "soal": "Tahun didirikan CV Karya Hidup Sentosa (Quick Traktor).", "jawaban": "1957"}
+    ],
+    "menurun": [
+      {"no": 2, "soal": "Bisa dipasang implement RTH.", "jawaban": "Quickboxer"},
+      {"no": 4, "soal": "Mirip G1000 Boxer (Hebatnya sudah melegenda).", "jawaban": "EX200"}
+    ]
+  },
+  {
+    "index": 16,
+    "image": "https://cdn.synoxcloud.xyz/tts/vwuertsdt4gt.webp",
+    "mendatar": [
+      {"no": 2, "soal": "Cloro fluoro carbon.", "jawaban": "CFC"},
+      {"no": 7, "soal": "Polutan yang menyebabkan terjadinya pemanasan global.", "jawaban": "Karbon dioksida"},
+      {"no": 8, "soal": "Radiasi yang dipancarkan oleh permukaan bumi dan diserap oleh gas-gas rumah kaca.", "jawaban": "Inframerah"},
+      {"no": 10, "soal": "Penyakit yang berkaitan dengan panas yang disebarkan oleh nyamuk.", "jawaban": "Malaria"},
+      {"no": 12, "soal": "Nama pulau akibat pemanasan global menjadi dampak mencairnya lempengan es di daerah kutub.", "jawaban": "Tuvalu"},
+      {"no": 13, "soal": "Menyeluruh atau mendunia.", "jawaban": "Global"}
+    ],
+    "menurun": [
+      {"no": 1, "soal": "Istilah untuk menggambarkan pemanasan alami yang terjadi akibat pemantulan gas tertentu yang terperangkap di atmosfer.", "jawaban": "Efek Rumah Kaca"},
+      {"no": 3, "soal": "Tumbuhan tepi pantai.", "jawaban": "Bakau"},
+      {"no": 4, "soal": "Kenaikan suhu rata-rata di bumi yang disebabkan oleh peningkatan emisi gas rumah kaca.", "jawaban": "Pemanasan Global"},
+      {"no": 5, "soal": "Pancaran atau radiasi.", "jawaban": "Radiasi"},
+      {"no": 6, "soal": "Pengikisan tepi pantai oleh air laut.", "jawaban": "Abrasi"}
+    ]
   }
 ]
