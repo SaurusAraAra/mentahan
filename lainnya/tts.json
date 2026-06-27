@@ -3,150 +3,177 @@
     "index": 1,
     "image": "https://cdn.synoxcloud.xyz/storage/d8y6b8tovtyy.jpg",
     "mendatar": [
-      { "no": 1, "soal": "Tembang kan ditembangake dening bocah-bocah", "jawaban": "Bocah" },
-      { "no": 2, "soal": "Prau layar klebu tembang dolanan gagrag anyar", "jawaban": "Anyar" },
-      { "no": 3, "soal": "Dongeng kang paragane kewan sing tumindak kaya manungsa", "jawaban": "Fabel" },
-      { "no": 4, "soal": "Seneng tetulung iku watak kang becik", "jawaban": "Becik" },
-      { "no": 5, "soal": "Sadurunge mangkat sekolah aku nyuwun bapak ibu", "jawaban": "Nyuwun" },
-      { "no": 6, "soal": "Fabel iku dongeng sing paragane kewan", "jawaban": "Kewan" },
-      { "no": 7, "soal": "Yok pra kanca dolanan ing lataran", "jawaban": "Lataran" }
+      {"no": 1, "soal": "Tembang kan ditembangake dening bocah-bocah ......", "jawaban": "Bocah"},
+      {"no": 4, "soal": "Prau layar klebu tembang dolanan gagrag ......", "jawaban": "Anyar"},
+      {"no": 6, "soal": "Dongeng kang paragane kewan sing tumindak kaya manungsa yaiku ......", "jawaban": "Fabel"},
+      {"no": 7, "soal": "Seneng tetulung iku watak kang ......", "jawaban": "Becik"},
+      {"no": 8, "soal": "Sadurunge mangkat sekolah aku ...... bapak ibu.", "jawaban": "Nyuwun"},
+      {"no": 9, "soal": "Fabel iku dongeng sing paragane ......", "jawaban": "Kewan"},
+      {"no": 12, "soal": "Yok pra kanca dolanan ing ......", "jawaban": "Lataran"}
     ],
     "menurun": [
-      { "no": 1, "soal": "Tembang dolanan biyasane ditembangake karo bocah", "jawaban": "Bocah" },
-      { "no": 2, "soal": "Crita sing ana gegayutane karo dumadine papan panggonan", "jawaban": "Legenda" },
-      { "no": 3, "soal": "Supaya klambi resik kudu dikumbah", "jawaban": "Dikumbah" },
-      { "no": 4, "soal": "Jamuran klebu tembang dolanan gagrag lawas", "jawaban": "Lawas" },
-      { "no": 5, "soal": "Tembang padhang bulan gambarake wayah wengi", "jawaban": "Wengi" },
-      { "no": 6, "soal": "Aku lagi turu menawa simbah lagi duduk", "jawaban": "Duduk" }
+      {"no": 1, "soal": "Tembang dolanan biyasane ditembangake karo ......", "jawaban": "Bocah"},
+      {"no": 2, "soal": "Crita sing ana gegayutane karo dumanine papan panggonan yaiku ......", "jawaban": "Legenda"},
+      {"no": 3, "soal": "Supaya klambi resik kudu ......", "jawaban": "Dikumbah"},
+      {"no": 5, "soal": "Jamuran klebu tembang dolanan gagrag ......", "jawaban": "Lawas"},
+      {"no": 10, "soal": "Tembang padhang bulan gambarake wayah ......", "jawaban": "Wengi"},
+      {"no": 11, "soal": "Aku lagi turu menawa simbah lagi ......", "jawaban": "Duduk"}
     ]
   },
   {
     "index": 2,
     "image": "https://cdn.synoxcloud.xyz/storage/8276l6k5xgo4.jpg",
     "mendatar": [
-      { "no": 4, "soal": "Kingdom yang mampu berfotosintesis", "jawaban": "Plantae" },
-      { "no": 5, "soal": "Burung asal Australia yang tidak dapat terbang", "jawaban": "Kasuari" },
-      { "no": 6, "soal": "Ambystoma mexicanum adalah hewan", "jawaban": "Amfibi" },
-      { "no": 7, "soal": "Ciri yang dapat dilihat dari jenis enzim protein atau DNA", "jawaban": "Biokimia" },
-      { "no": 8, "soal": "Gurita termasuk dalam filum", "jawaban": "Moluska" },
-      { "no": 9, "soal": "Ciri yang dapat dilihat dari bentuk luar tubuh makhluk hidup", "jawaban": "Morfologi" },
-      { "no": 10, "soal": "Jamur oncom termasuk dalam divisi", "jawaban": "Zygomycota" },
-      { "no": 11, "soal": "Sinonim pengelompokan", "jawaban": "Taksonomi" }
+      {"no": 4, "soal": "Kingdom yang mampu berfotosintesis.", "jawaban": "Plantae"},
+      {"no": 5, "soal": "Burung asal Australia yang tidak dapat terbang.", "jawaban": "Kasuari"},
+      {"no": 6, "soal": "Ambystoma mexicanum adalah hewan .......", "jawaban": "Amfibi"},
+      {"no": 8, "soal": "Ciri yang dapat dilihat dari jenis enzim protein atau DNA.", "jawaban": "Biokimia"},
+      {"no": 10, "soal": "Gurita termasuk dalam filum .......", "jawaban": "Moluska"},
+      {"no": 13, "soal": "Dalam pengelompokan kingdom, jamur oncom termasuk dalam divisi .......", "jawaban": "Zygomycota"},
+      {"no": 15, "soal": "Sinonim pengelompokan.", "jawaban": "Taksonomi"}
     ],
     "menurun": [
-      { "no": 1, "soal": "Jumlah tingkatan taksonomi", "jawaban": "Tujuh" },
-      { "no": 2, "soal": "Kingdom yang memiliki ciri uniseluler", "jawaban": "Monera" },
-      { "no": 3, "soal": "Organisme yang hidup dari bahan organik yang sudah mati", "jawaban": "Saprofit" },
-      { "no": 4, "soal": "Mamalia yang dapat bertelur", "jawaban": "Platipus" },
-      { "no": 5, "soal": "Tingkatan takson di atas spesies", "jawaban": "Genus" },
-      { "no": 6, "soal": "Jenis eubacteria yang memiliki bentuk spiral berekor", "jawaban": "Spirochaeta" }
+      {"no": 1, "soal": "Jumlah tingkatan taksonomi.", "jawaban": "Tujuh"},
+      {"no": 2, "soal": "Kingdom yang memiliki ciri uniseluler.", "jawaban": "Monera"},
+      {"no": 3, "soal": "Organisme yang hidup dari bahan organik yang sudah mati.", "jawaban": "Saprofit"},
+      {"no": 7, "soal": "Mamalia yang dapat bertelur.", "jawaban": "Platipus"},
+      {"no": 9, "soal": "Mamalia laut.", "jawaban": "Duyung"},
+      {"no": 11, "soal": "Tingkatan takson di atas spesies jika dari terbesar ke terkecil.", "jawaban": "Genus"},
+      {"no": 14, "soal": "Jenis eubacteria yang memiliki bentuk spiral berekor.", "jawaban": "Spirochaeta"}
     ]
   },
   {
     "index": 3,
     "image": "https://cdn.synoxcloud.xyz/tts/416cb2859265c90c08cb8a3eef8cf519.jpg",
     "mendatar": [
-      { "no": 2, "soal": "Kelereng", "jawaban": "Marbles" },
-      { "no": 5, "soal": "Petak Umpet", "jawaban": "Hide and Seek" },
-      { "no": 6, "soal": "Dakon", "jawaban": "Dakon / Mancala" },
-      { "no": 7, "soal": "Jungkat-Jungkit", "jawaban": "Seesaw" },
-      { "no": 8, "soal": "Yoyo", "jawaban": "Yo-yo" },
-      { "no": 9, "soal": "Ayunan", "jawaban": "Swing" }
+      {"no": 2, "soal": "Kelereng.", "jawaban": "Marbles"},
+      {"no": 5, "soal": "Petak umpet.", "jawaban": "Hide and Seek"},
+      {"no": 6, "soal": "Dakon.", "jawaban": "Mancala"},
+      {"no": 7, "soal": "Jungkat-jungkit.", "jawaban": "Seesaw"},
+      {"no": 8, "soal": "Yoyo.", "jawaban": "Yo-yo"},
+      {"no": 9, "soal": "Ayunan.", "jawaban": "Swing"}
     ],
     "menurun": [
-      { "no": 1, "soal": "Perosotan", "jawaban": "Slide" },
-      { "no": 3, "soal": "Lompat Tali", "jawaban": "Jump Rope / Skipping Rope" },
-      { "no": 4, "soal": "Balap Karung", "jawaban": "Sack Race" },
-      { "no": 5, "soal": "Engklek", "jawaban": "Hopscotch" }
+      {"no": 1, "soal": "Perosotan.", "jawaban": "Slide"},
+      {"no": 3, "soal": "Lompat tali.", "jawaban": "Jump Rope"},
+      {"no": 4, "soal": "Balap karung.", "jawaban": "Sack Race"},
+      {"no": 5, "soal": "Engklek.", "jawaban": "Hopscotch"}
     ]
   },
   {
     "index": 4,
     "image": "https://cdn.synoxcloud.xyz/tts/2515d7982c08ea956b69c3d06914c037.jpg",
     "mendatar": [
-      { "no": 1, "soal": "Irisan roti panggang", "jawaban": "Toast" },
-      { "no": 2, "soal": "Sayuran hijau ujung menggumpal", "jawaban": "Brokoli" },
-      { "no": 3, "soal": "Minuman seduh pembangkit semangat", "jawaban": "Kopi" },
-      { "no": 4, "soal": "Tortila lipat berisi gurih", "jawaban": "Burrito" }
+      {"no": 1, "soal": "Irisan roti yang dipanggang hingga berwarna kecokelatan.", "jawaban": "Toast"},
+      {"no": 2, "soal": "Sayuran hijau dengan ujung seperti kumpulan bunga.", "jawaban": "Brokoli"},
+      {"no": 3, "soal": "Minuman seduh yang membangkitkan semangat pagi banyak orang.", "jawaban": "Kopi"},
+      {"no": 4, "soal": "Tortila lipat dengan berbagai isian gurih.", "jawaban": "Burrito"}
     ],
     "menurun": [
-      { "no": 1, "soal": "Daging sapi gurih empuk", "jawaban": "Steak" },
-      { "no": 2, "soal": "Camilan panggang manis renyah", "jawaban": "Kue Kering / Biskuit" },
-      { "no": 3, "soal": "Biji jagung dipanaskan meletup", "jawaban": "Popcorn" },
-      { "no": 4, "soal": "Hidangan Italia dari adonan gandum", "jawaban": "Pasta" },
-      { "no": 5, "soal": "Aneka isian dibungkus tortila", "jawaban": "Burrito" },
-      { "no": 6, "soal": "Campuran sayuran mentah dengan saus", "jawaban": "Salad" }
+      {"no": 2, "soal": "Daging dari sapi, gurih dan empuk.", "jawaban": "Steak"},
+      {"no": 3, "soal": "Camilan yang dipanggang dan rasanya manis dan renyah.", "jawaban": "Biskuit"},
+      {"no": 4, "soal": "Makanan ringan dari biji jagung yang dipanaskan hingga meletup.", "jawaban": "Popcorn"},
+      {"no": 5, "soal": "Hidangan dari Italia yang terbuat dari adonan gandum.", "jawaban": "Pasta"},
+      {"no": 6, "soal": "Aneka isian yang dibungkus dengan tortila tepung.", "jawaban": "Burrito"},
+      {"no": 7, "soal": "Campuran sayuran mentah yang biasanya disajikan dengan saus khusus.", "jawaban": "Salad"}
     ]
   },
   {
     "index": 5,
     "image": "https://cdn.synoxcloud.xyz/tts/5051513ca6ee6f4680d72aba3ab25a57.jpg",
     "mendatar": [
-      { "no": 2, "soal": "Cuci + me-", "jawaban": "Mencuci" },
-      { "no": 4, "soal": "Bentuk baku dari mempesona", "jawaban": "Memesona" },
-      { "no": 6, "soal": "Sayur kol pada kalimat sebagai", "jawaban": "Objek" },
-      { "no": 8, "soal": "Kata hubung yang tepat", "jawaban": "Dan" }
+      {"no": 2, "soal": "Kata cuci diberi imbuhan \"me\".", "jawaban": "Mencuci"},
+      {"no": 4, "soal": "Mempesona atau memesona.", "jawaban": "Memesona"},
+      {"no": 6, "soal": "Saya memasak sayur kol. Sayur kol pada kalimat tersebut sebagai ...", "jawaban": "Objek"},
+      {"no": 8, "soal": "Sisi menyiram tanaman. Ibu menanam bunga. Kata hubung yang tepat adalah.", "jawaban": "Dan"}
     ],
     "menurun": [
-      { "no": 1, "soal": "Nama lain kata hubung", "jawaban": "Konjungsi" },
-      { "no": 3, "soal": "Lebih aman ... menguntungkan", "jawaban": "Daripada" },
-      { "no": 4, "soal": "Sapu + me-", "jawaban": "Menyapu" },
-      { "no": 5, "soal": "Kata dasar menulis", "jawaban": "Tulis" },
-      { "no": 7, "soal": "Kami melipat kain songket", "jawaban": "S-P-O" }
+      {"no": 1, "soal": "Nama lain dari kata hubung.", "jawaban": "Konjungsi"},
+      {"no": 3, "soal": "Menabung di bank lebih aman ... menguntungkan. Kata penghubung yang tepat untuk melengkapi kalimat.", "jawaban": "Daripada"},
+      {"no": 4, "soal": "Kata sapu diberi imbuhan \"me\".", "jawaban": "Menyapu"},
+      {"no": 5, "soal": "Kata dasar menulis.", "jawaban": "Tulis"},
+      {"no": 7, "soal": "Kami melipat kain songket. Kalimat tersebut memiliki pola ...", "jawaban": "SPO"}
     ]
   },
   {
     "index": 6,
     "image": "https://cdn.synoxcloud.xyz/tts/53d82a3c1ecb39294796aaf0ba3717f4.jpg",
     "mendatar": [
-      { "no": 1, "soal": "Buah hijau/kuning daging manis", "jawaban": "Mangga" },
-      { "no": 2, "soal": "Rempah kuning untuk masakan", "jawaban": "Kunyit" },
-      { "no": 3, "soal": "Buahnya diolah jadi santan", "jawaban": "Kelapa" },
-      { "no": 4, "soal": "Buah panjang kuning manis", "jawaban": "Pisang" },
-      { "no": 5, "soal": "Tanaman rimpang obat & bumbu", "jawaban": "Jahe" }
+      {"no": 6, "soal": "Buah berwarna hijau atau kuning yang dagingnya manis.", "jawaban": "Mangga"},
+      {"no": 7, "soal": "Rempah berwarna kuning yang sering digunakan dalam masakan.", "jawaban": "Kunyit"},
+      {"no": 8, "soal": "Tanaman yang buahnya sering diolah menjadi santan.", "jawaban": "Kelapa"},
+      {"no": 10, "soal": "Buah panjang yang berwarna kuning dan manis.", "jawaban": "Pisang"},
+      {"no": 11, "soal": "Tanaman rimpang yang digunakan sebagai obat dan bumbu dapur.", "jawaban": "Jahe"}
     ],
     "menurun": [
-      { "no": 1, "soal": "Buah jingga biji hitam kaya serat", "jawaban": "Pepaya" },
-      { "no": 2, "soal": "Buah merah untuk saus", "jawaban": "Tomat" },
-      { "no": 3, "soal": "Sayuran hijau untuk tumisan", "jawaban": "Kangkung" },
-      { "no": 4, "soal": "Sayuran hijau untuk sayur bening", "jawaban": "Bayam" },
-      { "no": 5, "soal": "Tanaman bumbu dapur", "jawaban": "Bawang" }
+      {"no": 1, "soal": "Buah berwarna jingga dengan biji hitam, kaya serat.", "jawaban": "Pepaya"},
+      {"no": 2, "soal": "Buah berwarna merah yang sering dijadikan saus.", "jawaban": "Tomat"},
+      {"no": 3, "soal": "Sayuran berdaun hijau yang biasa diolah menjadi tumisan.", "jawaban": "Kangkung"},
+      {"no": 4, "soal": "Sayuran hijau yang sering dibuat sayur bening.", "jawaban": "Bayam"},
+      {"no": 5, "soal": "Tanaman bumbu dapur yang sering digunakan untuk memasak.", "jawaban": "Bawang"},
+      {"no": 9, "soal": "Buah berukuran kecil dan pedas.", "jawaban": "Cabai"}
     ]
   },
   {
     "index": 7,
     "image": "https://cdn.synoxcloud.xyz/tts/58031cd279a7c9df0c47baf7986a783f.jpg",
     "mendatar": [
-      { "no": 1, "soal": "Angka setelah nine", "jawaban": "Sepuluh" },
-      { "no": 3, "soal": "Indonesia terletak di benua", "jawaban": "Asia" },
-      { "no": 5, "soal": "Yang dikendarai kusir", "jawaban": "Kuda" },
-      { "no": 7, "soal": "Benda bulat untuk olahraga", "jawaban": "Bola" },
-      { "no": 9, "soal": "Arti 'Money' dalam bahasa Indonesia", "jawaban": "Uang" }
+      {"no": 1, "soal": "Angka setelah nine (dalam bahasa Indonesia).", "jawaban": "Sepuluh"},
+      {"no": 3, "soal": "Indonesia terletak di benua?", "jawaban": "Asia"},
+      {"no": 5, "soal": "Yang dikendarai kusir.", "jawaban": "Kuda"},
+      {"no": 7, "soal": "Benda bulat yang biasa digunakan pada olahraga.", "jawaban": "Bola"},
+      {"no": 9, "soal": "Arti kata \"Money\" (dalam bahasa Indonesia).", "jawaban": "Uang"}
     ],
     "menurun": [
-      { "no": 1, "soal": "Cairan pembersih pakaian", "jawaban": "Detergen" },
-      { "no": 2, "soal": "Tidak mengingat sesuatu", "jawaban": "Lupa" },
-      { "no": 4, "soal": "Makanan pokok orang Indonesia", "jawaban": "Nasi" },
-      { "no": 6, "soal": "Hewan yang hidup di laut", "jawaban": "Ikan" },
-      { "no": 8, "soal": "Butiran air turun dari langit", "jawaban": "Hujan" }
+      {"no": 1, "soal": "Cairan untuk membersihkan pakaian.", "jawaban": "Detergen"},
+      {"no": 2, "soal": "Tidak mengingat sesuatu.", "jawaban": "Lupa"},
+      {"no": 4, "soal": "Makanan pokok orang Indonesia.", "jawaban": "Nasi"},
+      {"no": 6, "soal": "Hewan yang hidup di laut.", "jawaban": "Ikan"},
+      {"no": 8, "soal": "Butiran-butiran air yang turun dari langit disebut.", "jawaban": "Hujan"}
     ]
   },
   {
     "index": 8,
-    "image": "https://cdn.synoxcloud.xyz/tts/f878a4af93d7a1ff0266d41216cdfcf8.jpg",
+    "image": "https://cdn.synoxcloud.xyz/storage/t9fttm8w6os0.jpg",
     "mendatar": [
-      { "no": 1, "soal": "Sombong adalah perbuatan", "jawaban": "Maksiat" },
-      { "no": 2, "soal": "Kebalikan rendah hati", "jawaban": "Sombong" },
-      { "no": 3, "soal": "Setan menertawakan orang menguap dengan mulut", "jawaban": "Terbuka" },
-      { "no": 4, "soal": "Anak saleh selalu mengutamakan", "jawaban": "Orang Tua" },
-      { "no": 5, "soal": "Saat bersin memalingkan wajah ke arah", "jawaban": "Kiri" },
-      { "no": 6, "soal": "Terima kasih ungkapan rasa", "jawaban": "Syukur" }
+      {"no": 3, "soal": "Alat yang berfungsi menghitung.", "jawaban": "Kalkulator"},
+      {"no": 5, "soal": "Hewan yang menggonggong.", "jawaban": "Anjing"},
+      {"no": 6, "soal": "Hewan yang mengeong.", "jawaban": "Kucing"}
     ],
     "menurun": [
-      { "no": 1, "soal": "Hati keras bahaya sifat", "jawaban": "Sombong" },
-      { "no": 2, "soal": "Nama lain rendah hati", "jawaban": "Tawadhu" },
-      { "no": 3, "soal": "Keutamaan rendah hati, hati menjadi", "jawaban": "Tenang" },
-      { "no": 4, "soal": "Yarhamukallah diucapkan saat mendengar orang", "jawaban": "Bersin" }
+      {"no": 1, "soal": "Makanan berbentuk pipa.", "jawaban": "Makaroni"},
+      {"no": 2, "soal": "Roti yang biasanya tengahnya bolong.", "jawaban": "Donat"},
+      {"no": 4, "soal": "Kartun botak kembar.", "jawaban": "Upin Ipin"}
+    ]
+  },
+  {
+    "index": 9,
+    "image": "https://cdn.synoxcloud.xyz/storage/gvvkp915laus.jpg",
+    "mendatar": [
+      {"no": 1, "soal": "Doraemon takut dengan hewan apa?", "jawaban": "Tikus"},
+      {"no": 5, "soal": "Apa sebutan dasi pramuka?", "jawaban": "Setangan Leher"},
+      {"no": 6, "soal": "Bahasa Indonesianya mouse.", "jawaban": "Tikus"},
+      {"no": 7, "soal": "Orang yang menyukai budaya Jepang disebut?", "jawaban": "Wibu"}
+    ],
+    "menurun": [
+      {"no": 2, "soal": "Negara yang hanya memiliki 2 warna di benderanya.", "jawaban": "Indonesia"},
+      {"no": 3, "soal": "Game yang developer Indonesianya suka JKT48.", "jawaban": "Free Fire"},
+      {"no": 4, "soal": "Buah yang ada bijinya dan berwarna oren.", "jawaban": "Jeruk"}
+    ]
+  },
+  {
+    "index": 10,
+    "image": "https://cdn.synoxcloud.xyz/storage/o6k6uucu7lk7.jpg",
+    "mendatar": [
+      {"no": 4, "soal": "Animasi yang dihujat di Indonesia.", "jawaban": "One For All"},
+      {"no": 5, "soal": "Bahasa jawa anjing.", "jawaban": "Asu"},
+      {"no": 7, "soal": "Hubungan yang dilakukan 2 makhluk bergender berbeda.", "jawaban": "Seksual"}
+    ],
+    "menurun": [
+      {"no": 1, "soal": "Kartun kucing yang sering disebut rakun.", "jawaban": "Doraemon"},
+      {"no": 2, "soal": "Buah yang ada bijinya dan berwarna oren.", "jawaban": "Jeruk"},
+      {"no": 3, "soal": "Coli atau colmek bisa disebut dengan.", "jawaban": "Masturbasi"},
+      {"no": 6, "soal": "Apa sebutan untuk rambut / bulu dibagian kemaluan.", "jawaban": "Jembut"}
     ]
   }
 ]
