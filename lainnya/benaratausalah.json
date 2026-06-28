@@ -1,0 +1,2902 @@
+[
+  {
+    "index": 1,
+    "question": "Matahari adalah bintang.",
+    "answer": "benar"
+  },
+  {
+    "index": 2,
+    "question": "Bumi memiliki dua bulan.",
+    "answer": "salah"
+  },
+  {
+    "index": 3,
+    "question": "Air membeku pada suhu 0°C.",
+    "answer": "benar"
+  },
+  {
+    "index": 4,
+    "question": "Kucing adalah hewan herbivora.",
+    "answer": "salah"
+  },
+  {
+    "index": 5,
+    "question": "Indonesia berada di Asia Tenggara.",
+    "answer": "benar"
+  },
+  {
+    "index": 6,
+    "question": "Burung dapat bernapas menggunakan insang.",
+    "answer": "salah"
+  },
+  {
+    "index": 7,
+    "question": "Gajah adalah mamalia.",
+    "answer": "benar"
+  },
+  {
+    "index": 8,
+    "question": "Paus adalah ikan.",
+    "answer": "salah"
+  },
+  {
+    "index": 9,
+    "question": "Pelangi memiliki tujuh warna.",
+    "answer": "benar"
+  },
+  {
+    "index": 10,
+    "question": "Semua laba-laba memiliki enam kaki.",
+    "answer": "salah"
+  },
+  {
+    "index": 11,
+    "question": "Gunung Everest adalah gunung tertinggi di dunia.",
+    "answer": "benar"
+  },
+  {
+    "index": 12,
+    "question": "Benua Afrika adalah benua terkecil.",
+    "answer": "salah"
+  },
+  {
+    "index": 13,
+    "question": "Jantung manusia memiliki empat ruang.",
+    "answer": "benar"
+  },
+  {
+    "index": 14,
+    "question": "Manusia dapat hidup tanpa oksigen.",
+    "answer": "salah"
+  },
+  {
+    "index": 15,
+    "question": "Saturnus memiliki cincin.",
+    "answer": "benar"
+  },
+  {
+    "index": 16,
+    "question": "Mars adalah planet terbesar di tata surya.",
+    "answer": "salah"
+  },
+  {
+    "index": 17,
+    "question": "Air laut terasa asin.",
+    "answer": "benar"
+  },
+  {
+    "index": 18,
+    "question": "Ayam berkembang biak dengan melahirkan.",
+    "answer": "salah"
+  },
+  {
+    "index": 19,
+    "question": "Lebah menghasilkan madu.",
+    "answer": "benar"
+  },
+  {
+    "index": 20,
+    "question": "Kelelawar adalah burung.",
+    "answer": "salah"
+  },
+  {
+    "index": 21,
+    "question": "Bambu termasuk tumbuhan.",
+    "answer": "benar"
+  },
+  {
+    "index": 22,
+    "question": "Semua ular berbisa.",
+    "answer": "salah"
+  },
+  {
+    "index": 23,
+    "question": "Api membutuhkan oksigen untuk menyala.",
+    "answer": "benar"
+  },
+  {
+    "index": 24,
+    "question": "Es lebih panas daripada air mendidih.",
+    "answer": "salah"
+  },
+  {
+    "index": 25,
+    "question": "Komodo berasal dari Indonesia.",
+    "answer": "benar"
+  },
+  {
+    "index": 26,
+    "question": "Hiu adalah mamalia.",
+    "answer": "salah"
+  },
+  {
+    "index": 27,
+    "question": "Katak mengalami metamorfosis.",
+    "answer": "benar"
+  },
+  {
+    "index": 28,
+    "question": "Penguin hidup di padang pasir.",
+    "answer": "salah"
+  },
+  {
+    "index": 29,
+    "question": "Pisang mengandung kalium.",
+    "answer": "benar"
+  },
+  {
+    "index": 30,
+    "question": "Tomat adalah hewan.",
+    "answer": "salah"
+  },
+  {
+    "index": 31,
+    "question": "Vitamin C banyak terdapat pada jeruk.",
+    "answer": "benar"
+  },
+  {
+    "index": 32,
+    "question": "Matahari mengelilingi Bumi.",
+    "answer": "salah"
+  },
+  {
+    "index": 33,
+    "question": "Bumi berputar pada porosnya.",
+    "answer": "benar"
+  },
+  {
+    "index": 34,
+    "question": "Planet Venus memiliki cincin.",
+    "answer": "salah"
+  },
+  {
+    "index": 35,
+    "question": "Indonesia memiliki lebih dari 17.000 pulau.",
+    "answer": "benar"
+  },
+  {
+    "index": 36,
+    "question": "Jakarta adalah ibu kota Malaysia.",
+    "answer": "salah"
+  },
+  {
+    "index": 37,
+    "question": "Sungai Nil merupakan salah satu sungai terpanjang di dunia.",
+    "answer": "benar"
+  },
+  {
+    "index": 38,
+    "question": "Antartika adalah benua yang paling panas.",
+    "answer": "salah"
+  },
+  {
+    "index": 39,
+    "question": "Burung unta tidak dapat terbang.",
+    "answer": "benar"
+  },
+  {
+    "index": 40,
+    "question": "Semua ikan hidup di darat.",
+    "answer": "salah"
+  },
+  {
+    "index": 41,
+    "question": "Kupu-kupu berasal dari ulat.",
+    "answer": "benar"
+  },
+  {
+    "index": 42,
+    "question": "Buaya adalah hewan amfibi.",
+    "answer": "salah"
+  },
+  {
+    "index": 43,
+    "question": "Sapi memakan rumput.",
+    "answer": "benar"
+  },
+  {
+    "index": 44,
+    "question": "Harimau adalah hewan herbivora.",
+    "answer": "salah"
+  },
+  {
+    "index": 45,
+    "question": "Manusia memiliki 32 gigi permanen saat dewasa.",
+    "answer": "benar"
+  },
+  {
+    "index": 46,
+    "question": "Paru-paru berfungsi memompa darah.",
+    "answer": "salah"
+  },
+  {
+    "index": 47,
+    "question": "Darah manusia berwarna merah.",
+    "answer": "benar"
+  },
+  {
+    "index": 48,
+    "question": "Telinga digunakan untuk melihat.",
+    "answer": "salah"
+  },
+  {
+    "index": 49,
+    "question": "Air mengalir dari tempat tinggi ke tempat rendah.",
+    "answer": "benar"
+  },
+  {
+    "index": 50,
+    "question": "Es akan mencair jika dimasukkan ke dalam freezer.",
+    "answer": "salah"
+  },
+    {
+    "index": 51,
+    "question": "Indonesia memiliki lambang negara Garuda Pancasila.",
+    "answer": "benar"
+  },
+  {
+    "index": 52,
+    "question": "Bendera Indonesia berwarna hijau dan putih.",
+    "answer": "salah"
+  },
+  {
+    "index": 53,
+    "question": "Huruf vokal dalam bahasa Indonesia berjumlah lima.",
+    "answer": "benar"
+  },
+  {
+    "index": 54,
+    "question": "Seminggu terdiri dari delapan hari.",
+    "answer": "salah"
+  },
+  {
+    "index": 55,
+    "question": "Satu tahun kabisat memiliki 366 hari.",
+    "answer": "benar"
+  },
+  {
+    "index": 56,
+    "question": "Bulan Februari selalu memiliki 30 hari.",
+    "answer": "salah"
+  },
+  {
+    "index": 57,
+    "question": "Jam memiliki 60 menit.",
+    "answer": "benar"
+  },
+  {
+    "index": 58,
+    "question": "Satu menit terdiri dari 100 detik.",
+    "answer": "salah"
+  },
+  {
+    "index": 59,
+    "question": "1000 gram sama dengan 1 kilogram.",
+    "answer": "benar"
+  },
+  {
+    "index": 60,
+    "question": "Segitiga memiliki empat sisi.",
+    "answer": "salah"
+  },
+  {
+    "index": 61,
+    "question": "Persegi memiliki empat sisi yang sama panjang.",
+    "answer": "benar"
+  },
+  {
+    "index": 62,
+    "question": "Lingkaran memiliki sudut.",
+    "answer": "salah"
+  },
+  {
+    "index": 63,
+    "question": "2 × 5 = 10.",
+    "answer": "benar"
+  },
+  {
+    "index": 64,
+    "question": "9 + 8 = 20.",
+    "answer": "salah"
+  },
+  {
+    "index": 65,
+    "question": "15 - 7 = 8.",
+    "answer": "benar"
+  },
+  {
+    "index": 66,
+    "question": "8 × 8 = 72.",
+    "answer": "salah"
+  },
+  {
+    "index": 67,
+    "question": "100 dibagi 4 sama dengan 25.",
+    "answer": "benar"
+  },
+  {
+    "index": 68,
+    "question": "50 dibagi 5 sama dengan 5.",
+    "answer": "salah"
+  },
+  {
+    "index": 69,
+    "question": "Pelangi muncul karena pembiasan cahaya.",
+    "answer": "benar"
+  },
+  {
+    "index": 70,
+    "question": "Petir terjadi karena gesekan batu.",
+    "answer": "salah"
+  },
+  {
+    "index": 71,
+    "question": "Bintang terlihat berkelap-kelip dari Bumi.",
+    "answer": "benar"
+  },
+  {
+    "index": 72,
+    "question": "Bulan memancarkan cahayanya sendiri.",
+    "answer": "salah"
+  },
+  {
+    "index": 73,
+    "question": "Hutan menghasilkan oksigen bagi makhluk hidup.",
+    "answer": "benar"
+  },
+  {
+    "index": 74,
+    "question": "Semua tumbuhan berkembang biak dengan biji.",
+    "answer": "salah"
+  },
+  {
+    "index": 75,
+    "question": "Fotosintesis memerlukan cahaya matahari.",
+    "answer": "benar"
+  },
+    {
+    "index": 76,
+    "question": "Bintang laut adalah jenis ikan.",
+    "answer": "salah"
+  },
+  {
+    "index": 77,
+    "question": "Unta dapat bertahan lama tanpa minum.",
+    "answer": "benar"
+  },
+  {
+    "index": 78,
+    "question": "Kelinci adalah hewan pemakan daging.",
+    "answer": "salah"
+  },
+  {
+    "index": 79,
+    "question": "Bunga matahari menghadap ke arah datangnya cahaya.",
+    "answer": "benar"
+  },
+  {
+    "index": 80,
+    "question": "Semua burung dapat terbang.",
+    "answer": "salah"
+  },
+  {
+    "index": 81,
+    "question": "Lumba-lumba bernapas menggunakan paru-paru.",
+    "answer": "benar"
+  },
+  {
+    "index": 82,
+    "question": "Kelelawar aktif pada siang hari.",
+    "answer": "salah"
+  },
+  {
+    "index": 83,
+    "question": "Madu dihasilkan oleh lebah.",
+    "answer": "benar"
+  },
+  {
+    "index": 84,
+    "question": "Kupu-kupu memiliki delapan kaki.",
+    "answer": "salah"
+  },
+  {
+    "index": 85,
+    "question": "Es terapung di atas air.",
+    "answer": "benar"
+  },
+  {
+    "index": 86,
+    "question": "Air laut dapat langsung diminum tanpa diolah.",
+    "answer": "salah"
+  },
+  {
+    "index": 87,
+    "question": "Api menghasilkan panas.",
+    "answer": "benar"
+  },
+  {
+    "index": 88,
+    "question": "Angin dapat dilihat dengan mata telanjang.",
+    "answer": "salah"
+  },
+  {
+    "index": 89,
+    "question": "Besi dapat berkarat jika terkena air dan udara.",
+    "answer": "benar"
+  },
+  {
+    "index": 90,
+    "question": "Kayu merupakan penghantar listrik yang baik.",
+    "answer": "salah"
+  },
+  {
+    "index": 91,
+    "question": "Laptop termasuk perangkat elektronik.",
+    "answer": "benar"
+  },
+  {
+    "index": 92,
+    "question": "Keyboard digunakan untuk mencetak kertas.",
+    "answer": "salah"
+  },
+  {
+    "index": 93,
+    "question": "Internet dapat digunakan untuk mencari informasi.",
+    "answer": "benar"
+  },
+  {
+    "index": 94,
+    "question": "Mouse komputer digunakan untuk mendengarkan musik.",
+    "answer": "salah"
+  },
+  {
+    "index": 95,
+    "question": "Sepeda tidak menggunakan bahan bakar untuk berjalan.",
+    "answer": "benar"
+  },
+  {
+    "index": 96,
+    "question": "Mobil memiliki dua roda.",
+    "answer": "salah"
+  },
+  {
+    "index": 97,
+    "question": "Kereta api berjalan di atas rel.",
+    "answer": "benar"
+  },
+  {
+    "index": 98,
+    "question": "Pesawat terbang bergerak di bawah laut.",
+    "answer": "salah"
+  },
+  {
+    "index": 99,
+    "question": "Kapal digunakan sebagai alat transportasi di air.",
+    "answer": "benar"
+  },
+  {
+    "index": 100,
+    "question": "Helikopter bergerak menggunakan layar seperti kapal.",
+    "answer": "salah"
+  },
+    {
+    "index": 101,
+    "question": "Indonesia memiliki 38 provinsi.",
+    "answer": "benar"
+  },
+  {
+    "index": 102,
+    "question": "Jakarta adalah ibu kota Jepang.",
+    "answer": "salah"
+  },
+  {
+    "index": 103,
+    "question": "Bahasa Indonesia adalah bahasa resmi Indonesia.",
+    "answer": "benar"
+  },
+  {
+    "index": 104,
+    "question": "Huruf Z adalah huruf pertama alfabet.",
+    "answer": "salah"
+  },
+  {
+    "index": 105,
+    "question": "Air mendidih pada suhu sekitar 100°C di permukaan laut.",
+    "answer": "benar"
+  },
+  {
+    "index": 106,
+    "question": "Es lebih panas daripada uap air.",
+    "answer": "salah"
+  },
+  {
+    "index": 107,
+    "question": "Bumi mengelilingi Matahari.",
+    "answer": "benar"
+  },
+  {
+    "index": 108,
+    "question": "Matahari mengelilingi Bulan.",
+    "answer": "salah"
+  },
+  {
+    "index": 109,
+    "question": "Gunung berapi dapat meletus.",
+    "answer": "benar"
+  },
+  {
+    "index": 110,
+    "question": "Semua gunung selalu tertutup salju.",
+    "answer": "salah"
+  },
+  {
+    "index": 111,
+    "question": "Kucing memiliki kumis.",
+    "answer": "benar"
+  },
+  {
+    "index": 112,
+    "question": "Ayam memiliki belalai.",
+    "answer": "salah"
+  },
+  {
+    "index": 113,
+    "question": "Pohon menghasilkan oksigen.",
+    "answer": "benar"
+  },
+  {
+    "index": 114,
+    "question": "Semua tumbuhan berbunga.",
+    "answer": "salah"
+  },
+  {
+    "index": 115,
+    "question": "Ikan bernapas menggunakan insang.",
+    "answer": "benar"
+  },
+  {
+    "index": 116,
+    "question": "Lumba-lumba bernapas menggunakan insang.",
+    "answer": "salah"
+  },
+  {
+    "index": 117,
+    "question": "Buah apel mengandung vitamin.",
+    "answer": "benar"
+  },
+  {
+    "index": 118,
+    "question": "Batu adalah makhluk hidup.",
+    "answer": "salah"
+  },
+  {
+    "index": 119,
+    "question": "Manusia membutuhkan air untuk hidup.",
+    "answer": "benar"
+  },
+  {
+    "index": 120,
+    "question": "Manusia dapat hidup tanpa makan dan minum selamanya.",
+    "answer": "salah"
+  },
+  {
+    "index": 121,
+    "question": "Semut hidup berkelompok.",
+    "answer": "benar"
+  },
+  {
+    "index": 122,
+    "question": "Lebah hidup sendirian tanpa koloni.",
+    "answer": "salah"
+  },
+  {
+    "index": 123,
+    "question": "Kelinci memiliki telinga panjang.",
+    "answer": "benar"
+  },
+  {
+    "index": 124,
+    "question": "Harimau adalah hewan pemakan rumput.",
+    "answer": "salah"
+  },
+  {
+    "index": 125,
+    "question": "Padi dapat diolah menjadi beras.",
+    "answer": "benar"
+  }
+    {
+    "index": 126,
+    "question": "Beras berasal dari pohon kelapa.",
+    "answer": "salah"
+  },
+  {
+    "index": 127,
+    "question": "Kopi dibuat dari biji kopi.",
+    "answer": "benar"
+  },
+  {
+    "index": 128,
+    "question": "Teh berasal dari daun mangga.",
+    "answer": "salah"
+  },
+  {
+    "index": 129,
+    "question": "Pelangi biasanya muncul setelah hujan.",
+    "answer": "benar"
+  },
+  {
+    "index": 130,
+    "question": "Awan terbuat dari kapas.",
+    "answer": "salah"
+  },
+  {
+    "index": 131,
+    "question": "Kilat terlihat lebih dulu daripada suara petir terdengar.",
+    "answer": "benar"
+  },
+  {
+    "index": 132,
+    "question": "Suara bergerak lebih cepat daripada cahaya.",
+    "answer": "salah"
+  },
+  {
+    "index": 133,
+    "question": "Kaca bening dapat ditembus cahaya.",
+    "answer": "benar"
+  },
+  {
+    "index": 134,
+    "question": "Kayu merupakan logam.",
+    "answer": "salah"
+  },
+  {
+    "index": 135,
+    "question": "Emas adalah logam mulia.",
+    "answer": "benar"
+  },
+  {
+    "index": 136,
+    "question": "Plastik mudah berkarat.",
+    "answer": "salah"
+  },
+  {
+    "index": 137,
+    "question": "Pensil dapat digunakan untuk menulis.",
+    "answer": "benar"
+  },
+  {
+    "index": 138,
+    "question": "Penghapus digunakan untuk memotong kertas.",
+    "answer": "salah"
+  },
+  {
+    "index": 139,
+    "question": "Penggaris digunakan untuk mengukur panjang.",
+    "answer": "benar"
+  },
+  {
+    "index": 140,
+    "question": "Buku digunakan untuk menggoreng telur.",
+    "answer": "salah"
+  },
+  {
+    "index": 141,
+    "question": "Sepatu dipakai di kaki.",
+    "answer": "benar"
+  },
+  {
+    "index": 142,
+    "question": "Topi dipakai di tangan.",
+    "answer": "salah"
+  },
+  {
+    "index": 143,
+    "question": "Payung digunakan saat hujan atau terik matahari.",
+    "answer": "benar"
+  },
+  {
+    "index": 144,
+    "question": "Jas hujan terbuat dari kaca.",
+    "answer": "salah"
+  },
+  {
+    "index": 145,
+    "question": "Sepeda motor menggunakan ban.",
+    "answer": "benar"
+  },
+  {
+    "index": 146,
+    "question": "Kapal terbang berjalan di atas rel.",
+    "answer": "salah"
+  },
+  {
+    "index": 147,
+    "question": "Lampu menghasilkan cahaya.",
+    "answer": "benar"
+  },
+  {
+    "index": 148,
+    "question": "Lilinnya menyala tanpa api.",
+    "answer": "salah"
+  },
+  {
+    "index": 149,
+    "question": "Kulkas digunakan untuk mendinginkan makanan.",
+    "answer": "benar"
+  },
+  {
+    "index": 150,
+    "question": "Rice cooker digunakan untuk mencuci pakaian.",
+    "answer": "salah"
+  },
+    {
+    "index": 151,
+    "question": "Televisi dapat menampilkan gambar dan suara.",
+    "answer": "benar"
+  },
+  {
+    "index": 152,
+    "question": "Kipas angin berfungsi untuk memasak nasi.",
+    "answer": "salah"
+  },
+  {
+    "index": 153,
+    "question": "Jam digunakan untuk mengetahui waktu.",
+    "answer": "benar"
+  },
+  {
+    "index": 154,
+    "question": "Kalender digunakan untuk mengukur berat badan.",
+    "answer": "salah"
+  },
+  {
+    "index": 155,
+    "question": "Sapu digunakan untuk membersihkan lantai.",
+    "answer": "benar"
+  },
+  {
+    "index": 156,
+    "question": "Ember digunakan untuk menyalakan api.",
+    "answer": "salah"
+  },
+  {
+    "index": 157,
+    "question": "Sabun digunakan untuk membersihkan tubuh.",
+    "answer": "benar"
+  },
+  {
+    "index": 158,
+    "question": "Pasta gigi digunakan untuk mencuci piring.",
+    "answer": "salah"
+  },
+  {
+    "index": 159,
+    "question": "Handuk digunakan untuk mengeringkan badan.",
+    "answer": "benar"
+  },
+  {
+    "index": 160,
+    "question": "Bantal dipakai sebagai alas makan.",
+    "answer": "salah"
+  },
+  {
+    "index": 161,
+    "question": "Kasur digunakan untuk tidur.",
+    "answer": "benar"
+  },
+  {
+    "index": 162,
+    "question": "Lemari digunakan untuk memasak.",
+    "answer": "salah"
+  },
+  {
+    "index": 163,
+    "question": "Pintu digunakan untuk keluar masuk ruangan.",
+    "answer": "benar"
+  },
+  {
+    "index": 164,
+    "question": "Jendela digunakan untuk menggoreng ikan.",
+    "answer": "salah"
+  },
+  {
+    "index": 165,
+    "question": "Kursi digunakan untuk duduk.",
+    "answer": "benar"
+  },
+  {
+    "index": 166,
+    "question": "Meja digunakan untuk berenang.",
+    "answer": "salah"
+  },
+  {
+    "index": 167,
+    "question": "Sendok digunakan untuk makan.",
+    "answer": "benar"
+  },
+  {
+    "index": 168,
+    "question": "Garpu digunakan untuk menyapu halaman.",
+    "answer": "salah"
+  },
+  {
+    "index": 169,
+    "question": "Pisau digunakan untuk memotong.",
+    "answer": "benar"
+  },
+  {
+    "index": 170,
+    "question": "Gunting digunakan untuk merebus air.",
+    "answer": "salah"
+  },
+  {
+    "index": 171,
+    "question": "Bola sepak berbentuk bulat.",
+    "answer": "benar"
+  },
+  {
+    "index": 172,
+    "question": "Raket digunakan dalam permainan sepak bola.",
+    "answer": "salah"
+  },
+  {
+    "index": 173,
+    "question": "Renang dilakukan di air.",
+    "answer": "benar"
+  },
+  {
+    "index": 174,
+    "question": "Bulu tangkis dimainkan menggunakan tongkat baseball.",
+    "answer": "salah"
+  },
+  {
+    "index": 175,
+    "question": "Catur dimainkan menggunakan bidak.",
+    "answer": "benar"
+  },
+    {
+    "index": 176,
+    "question": "Permainan catur menggunakan bola.",
+    "answer": "salah"
+  },
+  {
+    "index": 177,
+    "question": "Bola basket dipantulkan saat dimainkan.",
+    "answer": "benar"
+  },
+  {
+    "index": 178,
+    "question": "Sepak bola dimainkan di dalam kolam renang.",
+    "answer": "salah"
+  },
+  {
+    "index": 179,
+    "question": "Maraton adalah lomba lari jarak jauh.",
+    "answer": "benar"
+  },
+  {
+    "index": 180,
+    "question": "Berenang dilakukan di atas pasir.",
+    "answer": "salah"
+  },
+  {
+    "index": 181,
+    "question": "Mangga termasuk buah-buahan.",
+    "answer": "benar"
+  },
+  {
+    "index": 182,
+    "question": "Wortel tumbuh di pohon kelapa.",
+    "answer": "salah"
+  },
+  {
+    "index": 183,
+    "question": "Bayam termasuk sayuran hijau.",
+    "answer": "benar"
+  },
+  {
+    "index": 184,
+    "question": "Cabai memiliki rasa manis seperti gula.",
+    "answer": "salah"
+  },
+  {
+    "index": 185,
+    "question": "Kelapa dapat diolah menjadi santan.",
+    "answer": "benar"
+  },
+  {
+    "index": 186,
+    "question": "Jahe termasuk jenis buah.",
+    "answer": "salah"
+  },
+  {
+    "index": 187,
+    "question": "Bawang digunakan sebagai bumbu masakan.",
+    "answer": "benar"
+  },
+  {
+    "index": 188,
+    "question": "Garam berasal dari pohon.",
+    "answer": "salah"
+  },
+  {
+    "index": 189,
+    "question": "Gula dapat memberikan rasa manis.",
+    "answer": "benar"
+  },
+  {
+    "index": 190,
+    "question": "Lada memiliki rasa yang manis.",
+    "answer": "salah"
+  },
+  {
+    "index": 191,
+    "question": "Susu mengandung kalsium.",
+    "answer": "benar"
+  },
+  {
+    "index": 192,
+    "question": "Yogurt dibuat dari minyak goreng.",
+    "answer": "salah"
+  },
+  {
+    "index": 193,
+    "question": "Keju merupakan hasil olahan susu.",
+    "answer": "benar"
+  },
+  {
+    "index": 194,
+    "question": "Mentega berasal dari batu.",
+    "answer": "salah"
+  },
+  {
+    "index": 195,
+    "question": "Mie umumnya dibuat dari tepung.",
+    "answer": "benar"
+  },
+  {
+    "index": 196,
+    "question": "Nasi berasal dari buah apel.",
+    "answer": "salah"
+  },
+  {
+    "index": 197,
+    "question": "Roti dipanggang sebelum disajikan.",
+    "answer": "benar"
+  },
+  {
+    "index": 198,
+    "question": "Es krim biasanya disajikan dalam keadaan panas.",
+    "answer": "salah"
+  },
+  {
+    "index": 199,
+    "question": "Air putih baik untuk menjaga tubuh tetap terhidrasi.",
+    "answer": "benar"
+  },
+  {
+    "index": 200,
+    "question": "Minyak goreng digunakan untuk diminum setiap hari sebagai pengganti air.",
+    "answer": "salah"
+  },
+    {
+    "index": 201,
+    "question": "Kamera digunakan untuk mengambil foto.",
+    "answer": "benar"
+  },
+  {
+    "index": 202,
+    "question": "Mikrofon digunakan untuk melihat bintang.",
+    "answer": "salah"
+  },
+  {
+    "index": 203,
+    "question": "Speaker mengeluarkan suara.",
+    "answer": "benar"
+  },
+  {
+    "index": 204,
+    "question": "Headphone digunakan untuk memasak makanan.",
+    "answer": "salah"
+  },
+  {
+    "index": 205,
+    "question": "Printer dapat mencetak dokumen.",
+    "answer": "benar"
+  },
+  {
+    "index": 206,
+    "question": "Scanner digunakan untuk menggoreng ikan.",
+    "answer": "salah"
+  },
+  {
+    "index": 207,
+    "question": "Flashdisk digunakan untuk menyimpan data.",
+    "answer": "benar"
+  },
+  {
+    "index": 208,
+    "question": "Hard disk digunakan untuk mencuci pakaian.",
+    "answer": "salah"
+  },
+  {
+    "index": 209,
+    "question": "RAM membantu proses kerja komputer.",
+    "answer": "benar"
+  },
+  {
+    "index": 210,
+    "question": "CPU berfungsi sebagai layar komputer.",
+    "answer": "salah"
+  },
+  {
+    "index": 211,
+    "question": "Monitor menampilkan gambar.",
+    "answer": "benar"
+  },
+  {
+    "index": 212,
+    "question": "Mouse komputer digunakan untuk mengetik huruf.",
+    "answer": "salah"
+  },
+  {
+    "index": 213,
+    "question": "Keyboard memiliki tombol huruf dan angka.",
+    "answer": "benar"
+  },
+  {
+    "index": 214,
+    "question": "Kabel USB digunakan untuk memotong kayu.",
+    "answer": "salah"
+  },
+  {
+    "index": 215,
+    "question": "Wi-Fi memungkinkan perangkat terhubung ke internet tanpa kabel.",
+    "answer": "benar"
+  },
+  {
+    "index": 216,
+    "question": "Bluetooth hanya dapat digunakan di dalam air.",
+    "answer": "salah"
+  },
+  {
+    "index": 217,
+    "question": "Android adalah sistem operasi.",
+    "answer": "benar"
+  },
+  {
+    "index": 218,
+    "question": "Windows adalah merek kulkas.",
+    "answer": "salah"
+  },
+  {
+    "index": 219,
+    "question": "Email dapat digunakan untuk mengirim pesan.",
+    "answer": "benar"
+  },
+  {
+    "index": 220,
+    "question": "Website hanya bisa dibuka menggunakan televisi.",
+    "answer": "salah"
+  },
+  {
+    "index": 221,
+    "question": "Robot dapat diprogram untuk melakukan tugas tertentu.",
+    "answer": "benar"
+  },
+  {
+    "index": 222,
+    "question": "Drone bergerak menggunakan tenaga kuda.",
+    "answer": "salah"
+  },
+  {
+    "index": 223,
+    "question": "Baterai menyimpan energi listrik.",
+    "answer": "benar"
+  },
+  {
+    "index": 224,
+    "question": "Lampu LED menggunakan bensin untuk menyala.",
+    "answer": "salah"
+  },
+  {
+    "index": 225,
+    "question": "Panel surya mengubah energi matahari menjadi listrik.",
+    "answer": "benar"
+  },
+  {
+    "index": 226,
+    "question": "Kincir angin menghasilkan listrik dari air laut saja.",
+    "answer": "salah"
+  },
+  {
+    "index": 227,
+    "question": "Telepon digunakan untuk berkomunikasi jarak jauh.",
+    "answer": "benar"
+  },
+  {
+    "index": 228,
+    "question": "SIM card dipasang di sepatu.",
+    "answer": "salah"
+  },
+  {
+    "index": 229,
+    "question": "QR Code dapat menyimpan informasi.",
+    "answer": "benar"
+  },
+  {
+    "index": 230,
+    "question": "Barcode selalu berbentuk lingkaran.",
+    "answer": "salah"
+  },
+    {
+    "index": 231,
+    "question": "Pancasila memiliki lima sila.",
+    "answer": "benar"
+  },
+  {
+    "index": 232,
+    "question": "Indonesia memiliki bendera berwarna biru dan kuning.",
+    "answer": "salah"
+  },
+  {
+    "index": 233,
+    "question": "Hari Kemerdekaan Indonesia diperingati setiap 17 Agustus.",
+    "answer": "benar"
+  },
+  {
+    "index": 234,
+    "question": "Indonesia merdeka pada tahun 1955.",
+    "answer": "salah"
+  },
+  {
+    "index": 235,
+    "question": "Garuda Pancasila adalah lambang negara Indonesia.",
+    "answer": "benar"
+  },
+  {
+    "index": 236,
+    "question": "Lambang negara Indonesia adalah naga.",
+    "answer": "salah"
+  },
+  {
+    "index": 237,
+    "question": "Merah Putih adalah nama bendera Indonesia.",
+    "answer": "benar"
+  },
+  {
+    "index": 238,
+    "question": "Lagu Indonesia Raya diciptakan oleh Chairil Anwar.",
+    "answer": "salah"
+  },
+  {
+    "index": 239,
+    "question": "Indonesia terdiri dari ribuan pulau.",
+    "answer": "benar"
+  },
+  {
+    "index": 240,
+    "question": "Pulau Bali adalah ibu kota Indonesia.",
+    "answer": "salah"
+  },
+  {
+    "index": 241,
+    "question": "Bahasa Indonesia digunakan sebagai bahasa persatuan.",
+    "answer": "benar"
+  },
+  {
+    "index": 242,
+    "question": "Semua penduduk Indonesia menggunakan bahasa Jepang sebagai bahasa resmi.",
+    "answer": "salah"
+  },
+  {
+    "index": 243,
+    "question": "Batik merupakan warisan budaya Indonesia.",
+    "answer": "benar"
+  },
+  {
+    "index": 244,
+    "question": "Kimono adalah pakaian adat Indonesia.",
+    "answer": "salah"
+  },
+  {
+    "index": 245,
+    "question": "Wayang merupakan salah satu kesenian tradisional Indonesia.",
+    "answer": "benar"
+  },
+  {
+    "index": 246,
+    "question": "Menara Eiffel berada di Indonesia.",
+    "answer": "salah"
+  },
+  {
+    "index": 247,
+    "question": "Candi Borobudur berada di Jawa Tengah.",
+    "answer": "benar"
+  },
+  {
+    "index": 248,
+    "question": "Candi Borobudur berada di Pulau Kalimantan.",
+    "answer": "salah"
+  },
+  {
+    "index": 249,
+    "question": "Komodo merupakan hewan asli Indonesia.",
+    "answer": "benar"
+  },
+  {
+    "index": 250,
+    "question": "Panda berasal dari Indonesia.",
+    "answer": "salah"
+  },
+  {
+    "index": 251,
+    "question": "Rafflesia arnoldii dikenal sebagai bunga terbesar di dunia.",
+    "answer": "benar"
+  },
+  {
+    "index": 252,
+    "question": "Melati adalah bunga terbesar di dunia.",
+    "answer": "salah"
+  },
+  {
+    "index": 253,
+    "question": "Gunung Bromo merupakan salah satu gunung di Indonesia.",
+    "answer": "benar"
+  },
+  {
+    "index": 254,
+    "question": "Gunung Fuji berada di Indonesia.",
+    "answer": "salah"
+  },
+  {
+    "index": 255,
+    "question": "Danau Toba berada di Sumatra.",
+    "answer": "benar"
+  },
+  {
+    "index": 256,
+    "question": "Danau Toba berada di Papua.",
+    "answer": "salah"
+  },
+  {
+    "index": 257,
+    "question": "Rendang berasal dari Sumatra Barat.",
+    "answer": "benar"
+  },
+  {
+    "index": 258,
+    "question": "Gudeg berasal dari Sulawesi.",
+    "answer": "salah"
+  },
+  {
+    "index": 259,
+    "question": "Pempek merupakan makanan khas Palembang.",
+    "answer": "benar"
+  },
+  {
+    "index": 260,
+    "question": "Papeda merupakan makanan khas Italia.",
+    "answer": "salah"
+  },
+    {
+    "index": 261,
+    "question": "Benua Asia adalah benua terbesar di dunia.",
+    "answer": "benar"
+  },
+  {
+    "index": 262,
+    "question": "Australia adalah negara yang berada di Benua Eropa.",
+    "answer": "salah"
+  },
+  {
+    "index": 263,
+    "question": "Samudra Pasifik merupakan samudra terbesar di dunia.",
+    "answer": "benar"
+  },
+  {
+    "index": 264,
+    "question": "Sungai Nil berada di Indonesia.",
+    "answer": "salah"
+  },
+  {
+    "index": 265,
+    "question": "Mesir terkenal dengan Piramida Giza.",
+    "answer": "benar"
+  },
+  {
+    "index": 266,
+    "question": "Menara Pisa berada di Jerman.",
+    "answer": "salah"
+  },
+  {
+    "index": 267,
+    "question": "Tembok Besar China berada di Tiongkok.",
+    "answer": "benar"
+  },
+  {
+    "index": 268,
+    "question": "Patung Liberty berada di Kanada.",
+    "answer": "salah"
+  },
+  {
+    "index": 269,
+    "question": "Gunung Everest berada di pegunungan Himalaya.",
+    "answer": "benar"
+  },
+  {
+    "index": 270,
+    "question": "Gunung Everest berada di Australia.",
+    "answer": "salah"
+  },
+  {
+    "index": 271,
+    "question": "Tokyo adalah ibu kota Jepang.",
+    "answer": "benar"
+  },
+  {
+    "index": 272,
+    "question": "Seoul adalah ibu kota Thailand.",
+    "answer": "salah"
+  },
+  {
+    "index": 273,
+    "question": "Paris adalah ibu kota Prancis.",
+    "answer": "benar"
+  },
+  {
+    "index": 274,
+    "question": "Roma adalah ibu kota Spanyol.",
+    "answer": "salah"
+  },
+  {
+    "index": 275,
+    "question": "London adalah ibu kota Inggris.",
+    "answer": "benar"
+  },
+  {
+    "index": 276,
+    "question": "Madrid adalah ibu kota Portugal.",
+    "answer": "salah"
+  },
+  {
+    "index": 277,
+    "question": "Brasil berada di Amerika Selatan.",
+    "answer": "benar"
+  },
+  {
+    "index": 278,
+    "question": "Kanada berada di Benua Afrika.",
+    "answer": "salah"
+  },
+  {
+    "index": 279,
+    "question": "Antartika merupakan benua yang sangat dingin.",
+    "answer": "benar"
+  },
+  {
+    "index": 280,
+    "question": "Gurun Sahara berada di Antartika.",
+    "answer": "salah"
+  },
+  {
+    "index": 281,
+    "question": "Koala berasal dari Australia.",
+    "answer": "benar"
+  },
+  {
+    "index": 282,
+    "question": "Panda berasal dari Brasil.",
+    "answer": "salah"
+  },
+  {
+    "index": 283,
+    "question": "Kanguru memiliki kantung untuk membawa anaknya.",
+    "answer": "benar"
+  },
+  {
+    "index": 284,
+    "question": "Gajah adalah hewan yang dapat terbang.",
+    "answer": "salah"
+  },
+  {
+    "index": 285,
+    "question": "Buaya termasuk hewan reptil.",
+    "answer": "benar"
+  },
+  {
+    "index": 286,
+    "question": "Katak termasuk hewan mamalia.",
+    "answer": "salah"
+  },
+  {
+    "index": 287,
+    "question": "Hiu bernapas menggunakan insang.",
+    "answer": "benar"
+  },
+  {
+    "index": 288,
+    "question": "Paus bernapas menggunakan insang.",
+    "answer": "salah"
+  },
+  {
+    "index": 289,
+    "question": "Burung hantu aktif pada malam hari.",
+    "answer": "benar"
+  },
+  {
+    "index": 290,
+    "question": "Ayam adalah hewan nokturnal.",
+    "answer": "salah"
+  },
+  {
+    "index": 291,
+    "question": "Bambu dapat tumbuh dengan cepat.",
+    "answer": "benar"
+  },
+  {
+    "index": 292,
+    "question": "Kaktus hanya dapat hidup di dalam air.",
+    "answer": "salah"
+  },
+  {
+    "index": 293,
+    "question": "Lidah buaya sering dimanfaatkan untuk kesehatan dan kecantikan.",
+    "answer": "benar"
+  },
+  {
+    "index": 294,
+    "question": "Mawar adalah jenis pohon kelapa.",
+    "answer": "salah"
+  },
+  {
+    "index": 295,
+    "question": "Pohon jati dikenal memiliki kayu yang kuat.",
+    "answer": "benar"
+  },
+  {
+    "index": 296,
+    "question": "Pohon pisang memiliki batang berkayu keras.",
+    "answer": "salah"
+  },
+  {
+    "index": 297,
+    "question": "Udara bersih baik untuk kesehatan.",
+    "answer": "benar"
+  },
+  {
+    "index": 298,
+    "question": "Asap kendaraan membuat udara menjadi lebih bersih.",
+    "answer": "salah"
+  },
+  {
+    "index": 299,
+    "question": "Membuang sampah pada tempatnya membantu menjaga kebersihan lingkungan.",
+    "answer": "benar"
+  },
+  {
+    "index": 300,
+    "question": "Menebang hutan secara liar membantu melestarikan alam.",
+    "answer": "salah"
+  },
+    {
+    "index": 301,
+    "question": "Albert Einstein dikenal dengan teori relativitas.",
+    "answer": "benar"
+  },
+  {
+    "index": 302,
+    "question": "Isaac Newton menemukan telepon.",
+    "answer": "salah"
+  },
+  {
+    "index": 303,
+    "question": "Thomas Edison berperan dalam pengembangan lampu pijar.",
+    "answer": "benar"
+  },
+  {
+    "index": 304,
+    "question": "Alexander Graham Bell menciptakan pesawat terbang.",
+    "answer": "salah"
+  },
+  {
+    "index": 305,
+    "question": "Bulan adalah satelit alami Bumi.",
+    "answer": "benar"
+  },
+  {
+    "index": 306,
+    "question": "Venus merupakan planet yang memiliki cincin.",
+    "answer": "salah"
+  },
+  {
+    "index": 307,
+    "question": "Jupiter adalah planet terbesar di tata surya.",
+    "answer": "benar"
+  },
+  {
+    "index": 308,
+    "question": "Merkurius adalah planet terjauh dari Matahari.",
+    "answer": "salah"
+  },
+  {
+    "index": 309,
+    "question": "Saturnus terkenal dengan cincinnya.",
+    "answer": "benar"
+  },
+  {
+    "index": 310,
+    "question": "Neptunus berada lebih dekat ke Matahari daripada Bumi.",
+    "answer": "salah"
+  },
+  {
+    "index": 311,
+    "question": "Fotosintesis menghasilkan oksigen.",
+    "answer": "benar"
+  },
+  {
+    "index": 312,
+    "question": "Tumbuhan melakukan fotosintesis pada malam hari tanpa cahaya.",
+    "answer": "salah"
+  },
+  {
+    "index": 313,
+    "question": "Vitamin D dapat diperoleh dari sinar matahari.",
+    "answer": "benar"
+  },
+  {
+    "index": 314,
+    "question": "Vitamin C hanya terdapat pada daging sapi.",
+    "answer": "salah"
+  },
+  {
+    "index": 315,
+    "question": "Olahraga secara rutin baik untuk kesehatan.",
+    "answer": "benar"
+  },
+  {
+    "index": 316,
+    "question": "Kurang tidur selalu membuat tubuh lebih sehat.",
+    "answer": "salah"
+  },
+  {
+    "index": 317,
+    "question": "Sarapan dapat membantu memberikan energi untuk beraktivitas.",
+    "answer": "benar"
+  },
+  {
+    "index": 318,
+    "question": "Minum air putih tidak memiliki manfaat bagi tubuh.",
+    "answer": "salah"
+  },
+  {
+    "index": 319,
+    "question": "Helm digunakan untuk melindungi kepala saat berkendara.",
+    "answer": "benar"
+  },
+  {
+    "index": 320,
+    "question": "Sabuk pengaman dipasang di kaki.",
+    "answer": "salah"
+  },
+  {
+    "index": 321,
+    "question": "Lampu lalu lintas merah berarti berhenti.",
+    "answer": "benar"
+  },
+  {
+    "index": 322,
+    "question": "Lampu hijau berarti berhenti.",
+    "answer": "salah"
+  },
+  {
+    "index": 323,
+    "question": "Lampu kuning menandakan agar berhati-hati.",
+    "answer": "benar"
+  },
+  {
+    "index": 324,
+    "question": "Rambu dilarang parkir berarti wajib parkir.",
+    "answer": "salah"
+  },
+  {
+    "index": 325,
+    "question": "Api dapat dipadamkan menggunakan air pada beberapa kondisi.",
+    "answer": "benar"
+  },
+  {
+    "index": 326,
+    "question": "Kebakaran listrik sebaiknya selalu disiram air.",
+    "answer": "salah"
+  },
+  {
+    "index": 327,
+    "question": "Gempa bumi merupakan bencana alam.",
+    "answer": "benar"
+  },
+  {
+    "index": 328,
+    "question": "Tsunami terjadi karena hujan gerimis.",
+    "answer": "salah"
+  },
+  {
+    "index": 329,
+    "question": "Gunung meletus dapat mengeluarkan lava.",
+    "answer": "benar"
+  },
+  {
+    "index": 330,
+    "question": "Banjir terjadi karena kekurangan air minum.",
+    "answer": "salah"
+  },
+  {
+    "index": 331,
+    "question": "Daur ulang membantu mengurangi sampah.",
+    "answer": "benar"
+  },
+  {
+    "index": 332,
+    "question": "Semua sampah harus dibuang ke sungai.",
+    "answer": "salah"
+  },
+  {
+    "index": 333,
+    "question": "Menanam pohon membantu menjaga lingkungan.",
+    "answer": "benar"
+  },
+  {
+    "index": 334,
+    "question": "Menebang semua pohon membuat udara semakin bersih.",
+    "answer": "salah"
+  },
+  {
+    "index": 335,
+    "question": "Kertas dapat dibuat dari kayu.",
+    "answer": "benar"
+  },
+  {
+    "index": 336,
+    "question": "Kaca terbuat dari daun.",
+    "answer": "salah"
+  },
+  {
+    "index": 337,
+    "question": "Emas memiliki nilai jual yang tinggi.",
+    "answer": "benar"
+  },
+  {
+    "index": 338,
+    "question": "Pasir adalah logam mulia.",
+    "answer": "salah"
+  },
+  {
+    "index": 339,
+    "question": "Magnet dapat menarik besi.",
+    "answer": "benar"
+  },
+  {
+    "index": 340,
+    "question": "Magnet dapat menarik semua benda.",
+    "answer": "salah"
+  },
+  {
+    "index": 341,
+    "question": "Air hujan berasal dari proses penguapan dan kondensasi.",
+    "answer": "benar"
+  },
+  {
+    "index": 342,
+    "question": "Awan terbentuk dari asap kendaraan saja.",
+    "answer": "salah"
+  },
+  {
+    "index": 343,
+    "question": "Pelangi terjadi karena pembiasan cahaya matahari oleh tetesan air.",
+    "answer": "benar"
+  },
+  {
+    "index": 344,
+    "question": "Bayangan selalu muncul pada malam hari tanpa cahaya.",
+    "answer": "salah"
+  },
+  {
+    "index": 345,
+    "question": "Baterai yang habis sebaiknya dibuang pada tempat yang sesuai.",
+    "answer": "benar"
+  },
+  {
+    "index": 346,
+    "question": "Semua limbah aman dibuang ke sungai.",
+    "answer": "salah"
+  },
+  {
+    "index": 347,
+    "question": "Pohon menyerap karbon dioksida.",
+    "answer": "benar"
+  },
+  {
+    "index": 348,
+    "question": "Karbon dioksida adalah gas yang dibutuhkan manusia untuk bernapas.",
+    "answer": "salah"
+  },
+  {
+    "index": 349,
+    "question": "Oksigen penting bagi kehidupan manusia.",
+    "answer": "benar"
+  },
+  {
+    "index": 350,
+    "question": "Nitrogen adalah gas yang paling sedikit terdapat di atmosfer Bumi.",
+    "answer": "salah"
+  },
+  {
+    "index": 351,
+    "question": "Kucing termasuk hewan vertebrata.",
+    "answer": "benar"
+  },
+  {
+    "index": 352,
+    "question": "Cacing memiliki tulang belakang.",
+    "answer": "salah"
+  },
+  {
+    "index": 353,
+    "question": "Ular termasuk reptil.",
+    "answer": "benar"
+  },
+  {
+    "index": 354,
+    "question": "Katak termasuk reptil.",
+    "answer": "salah"
+  },
+  {
+    "index": 355,
+    "question": "Kupu-kupu mengalami metamorfosis sempurna.",
+    "answer": "benar"
+  },
+  {
+    "index": 356,
+    "question": "Nyamuk tidak mengalami metamorfosis.",
+    "answer": "salah"
+  },
+  {
+    "index": 357,
+    "question": "Padi merupakan tanaman pangan.",
+    "answer": "benar"
+  },
+  {
+    "index": 358,
+    "question": "Jagung adalah jenis hewan.",
+    "answer": "salah"
+  },
+  {
+    "index": 359,
+    "question": "Kedelai dapat diolah menjadi tempe.",
+    "answer": "benar"
+  },
+  {
+    "index": 360,
+    "question": "Tempe dibuat dari gandum.",
+    "answer": "salah"
+  },
+  {
+    "index": 361,
+    "question": "Tahu dibuat dari kedelai.",
+    "answer": "benar"
+  },
+  {
+    "index": 362,
+    "question": "Keju dibuat dari singkong.",
+    "answer": "salah"
+  },
+  {
+    "index": 363,
+    "question": "Mata adalah indera penglihatan.",
+    "answer": "benar"
+  },
+  {
+    "index": 364,
+    "question": "Hidung digunakan untuk mendengar.",
+    "answer": "salah"
+  },
+  {
+    "index": 365,
+    "question": "Lidah berfungsi untuk mengecap rasa.",
+    "answer": "benar"
+  },
+  {
+    "index": 366,
+    "question": "Kulit digunakan untuk melihat warna.",
+    "answer": "salah"
+  },
+  {
+    "index": 367,
+    "question": "Telinga membantu menjaga keseimbangan tubuh.",
+    "answer": "benar"
+  },
+  {
+    "index": 368,
+    "question": "Paru-paru berfungsi mencerna makanan.",
+    "answer": "salah"
+  },
+  {
+    "index": 369,
+    "question": "Ginjal berfungsi menyaring darah.",
+    "answer": "benar"
+  },
+  {
+    "index": 370,
+    "question": "Jantung berfungsi menyimpan makanan.",
+    "answer": "salah"
+  },
+  {
+    "index": 371,
+    "question": "Otak merupakan pusat sistem saraf manusia.",
+    "answer": "benar"
+  },
+  {
+    "index": 372,
+    "question": "Rambut adalah organ pemompa darah.",
+    "answer": "salah"
+  },
+  {
+    "index": 373,
+    "question": "Tidur yang cukup membantu menjaga kesehatan.",
+    "answer": "benar"
+  },
+  {
+    "index": 374,
+    "question": "Begadang setiap hari membuat tubuh semakin sehat.",
+    "answer": "salah"
+  },
+  {
+    "index": 375,
+    "question": "Mencuci tangan dapat membantu mencegah penyakit.",
+    "answer": "benar"
+  },
+  {
+    "index": 376,
+    "question": "Virus dapat dilihat dengan mata telanjang.",
+    "answer": "salah"
+  },
+  {
+    "index": 377,
+    "question": "Bakteri ada yang bermanfaat bagi manusia.",
+    "answer": "benar"
+  },
+  {
+    "index": 378,
+    "question": "Semua bakteri selalu berbahaya.",
+    "answer": "salah"
+  },
+  {
+    "index": 379,
+    "question": "Kompas membantu menentukan arah.",
+    "answer": "benar"
+  },
+  {
+    "index": 380,
+    "question": "Teropong digunakan untuk menimbang berat badan.",
+    "answer": "salah"
+  },
+  {
+    "index": 381,
+    "question": "Peta membantu menunjukkan lokasi.",
+    "answer": "benar"
+  },
+  {
+    "index": 382,
+    "question": "Globe berbentuk persegi.",
+    "answer": "salah"
+  },
+  {
+    "index": 383,
+    "question": "Komputer dapat melakukan perhitungan dengan cepat.",
+    "answer": "benar"
+  },
+  {
+    "index": 384,
+    "question": "Printer digunakan untuk memasak mie.",
+    "answer": "salah"
+  },
+  {
+    "index": 385,
+    "question": "Internet memudahkan pertukaran informasi.",
+    "answer": "benar"
+  },
+  {
+    "index": 386,
+    "question": "Email hanya bisa dikirim menggunakan surat fisik.",
+    "answer": "salah"
+  },
+  {
+    "index": 387,
+    "question": "Robot merupakan hasil perkembangan teknologi.",
+    "answer": "benar"
+  },
+  {
+    "index": 388,
+    "question": "Kalkulator digunakan untuk menggoreng telur.",
+    "answer": "salah"
+  },
+  {
+    "index": 389,
+    "question": "Matematika digunakan dalam kehidupan sehari-hari.",
+    "answer": "benar"
+  },
+  {
+    "index": 390,
+    "question": "1 + 1 = 3.",
+    "answer": "salah"
+  },
+  {
+    "index": 391,
+    "question": "10 × 10 = 100.",
+    "answer": "benar"
+  },
+  {
+    "index": 392,
+    "question": "50 ÷ 10 = 8.",
+    "answer": "salah"
+  },
+  {
+    "index": 393,
+    "question": "365 hari adalah jumlah hari dalam satu tahun biasa.",
+    "answer": "benar"
+  },
+  {
+    "index": 394,
+    "question": "Satu minggu terdiri dari sembilan hari.",
+    "answer": "salah"
+  },
+  {
+    "index": 395,
+    "question": "Desember adalah bulan terakhir dalam satu tahun.",
+    "answer": "benar"
+  },
+  {
+    "index": 396,
+    "question": "Januari adalah bulan keempat dalam setahun.",
+    "answer": "salah"
+  },
+  {
+    "index": 397,
+    "question": "Minggu adalah salah satu nama hari.",
+    "answer": "benar"
+  },
+  {
+    "index": 398,
+    "question": "Sabtu selalu datang setelah Minggu.",
+    "answer": "salah"
+  },
+  {
+    "index": 399,
+    "question": "Buku dapat menambah pengetahuan jika dibaca.",
+    "answer": "benar"
+  },
+  {
+    "index": 400,
+    "question": "Belajar hanya boleh dilakukan di sekolah.",
+    "answer": "salah"
+  },
+    {
+    "index": 401,
+    "question": "Planet Bumi memiliki satu satelit alami, yaitu Bulan.",
+    "answer": "benar"
+  },
+  {
+    "index": 402,
+    "question": "Matahari adalah planet.",
+    "answer": "salah"
+  },
+  {
+    "index": 403,
+    "question": "Air merupakan senyawa yang tersusun dari hidrogen dan oksigen.",
+    "answer": "benar"
+  },
+  {
+    "index": 404,
+    "question": "Emas berwarna biru secara alami.",
+    "answer": "salah"
+  },
+  {
+    "index": 405,
+    "question": "Buku adalah sumber ilmu pengetahuan.",
+    "answer": "benar"
+  },
+  {
+    "index": 406,
+    "question": "Pensil digunakan untuk menggoreng telur.",
+    "answer": "salah"
+  },
+  {
+    "index": 407,
+    "question": "Pohon menghasilkan oksigen melalui fotosintesis.",
+    "answer": "benar"
+  },
+  {
+    "index": 408,
+    "question": "Semua tumbuhan hidup tanpa air.",
+    "answer": "salah"
+  },
+  {
+    "index": 409,
+    "question": "Anjing termasuk hewan mamalia.",
+    "answer": "benar"
+  },
+  {
+    "index": 410,
+    "question": "Ayam adalah hewan menyusui.",
+    "answer": "salah"
+  },
+  {
+    "index": 411,
+    "question": "Pisang mengandung kalium.",
+    "answer": "benar"
+  },
+  {
+    "index": 412,
+    "question": "Jeruk berwarna ungu secara alami.",
+    "answer": "salah"
+  },
+  {
+    "index": 413,
+    "question": "Hujan berasal dari siklus air.",
+    "answer": "benar"
+  },
+  {
+    "index": 414,
+    "question": "Salju turun di seluruh wilayah Indonesia setiap tahun.",
+    "answer": "salah"
+  },
+  {
+    "index": 415,
+    "question": "Kompas digunakan untuk menentukan arah.",
+    "answer": "benar"
+  },
+  {
+    "index": 416,
+    "question": "Jam digunakan untuk mengukur berat badan.",
+    "answer": "salah"
+  },
+  {
+    "index": 417,
+    "question": "Besi dapat didaur ulang.",
+    "answer": "benar"
+  },
+  {
+    "index": 418,
+    "question": "Kertas terbuat dari plastik.",
+    "answer": "salah"
+  },
+  {
+    "index": 419,
+    "question": "Pelangi memiliki beberapa warna.",
+    "answer": "benar"
+  },
+  {
+    "index": 420,
+    "question": "Pelangi hanya memiliki satu warna.",
+    "answer": "salah"
+  },
+  {
+    "index": 421,
+    "question": "Sapi menghasilkan susu.",
+    "answer": "benar"
+  },
+  {
+    "index": 422,
+    "question": "Kambing bertelur.",
+    "answer": "salah"
+  },
+  {
+    "index": 423,
+    "question": "Baterai menyimpan energi listrik.",
+    "answer": "benar"
+  },
+  {
+    "index": 424,
+    "question": "Lampu pijar menggunakan air sebagai bahan bakar.",
+    "answer": "salah"
+  },
+  {
+    "index": 425,
+    "question": "Sepeda adalah alat transportasi.",
+    "answer": "benar"
+  },
+  {
+    "index": 426,
+    "question": "Kapal terbang bergerak di atas rel.",
+    "answer": "salah"
+  },
+  {
+    "index": 427,
+    "question": "Membaca dapat menambah wawasan.",
+    "answer": "benar"
+  },
+  {
+    "index": 428,
+    "question": "Belajar membuat seseorang menjadi lupa semua hal.",
+    "answer": "salah"
+  },
+  {
+    "index": 429,
+    "question": "Tumbuhan membutuhkan sinar matahari untuk fotosintesis.",
+    "answer": "benar"
+  },
+  {
+    "index": 430,
+    "question": "Fotosintesis hanya terjadi pada malam hari.",
+    "answer": "salah"
+  },
+  {
+    "index": 431,
+    "question": "Harimau termasuk hewan karnivora.",
+    "answer": "benar"
+  },
+  {
+    "index": 432,
+    "question": "Kelinci adalah hewan pemakan daging.",
+    "answer": "salah"
+  },
+  {
+    "index": 433,
+    "question": "Air laut terasa asin.",
+    "answer": "benar"
+  },
+  {
+    "index": 434,
+    "question": "Semua sungai berisi air asin.",
+    "answer": "salah"
+  },
+  {
+    "index": 435,
+    "question": "Indonesia dilalui garis khatulistiwa.",
+    "answer": "benar"
+  },
+  {
+    "index": 436,
+    "question": "Indonesia berada di Benua Afrika.",
+    "answer": "salah"
+  },
+  {
+    "index": 437,
+    "question": "Mata adalah indera penglihatan.",
+    "answer": "benar"
+  },
+  {
+    "index": 438,
+    "question": "Hidung digunakan untuk melihat.",
+    "answer": "salah"
+  },
+  {
+    "index": 439,
+    "question": "Jantung memompa darah ke seluruh tubuh.",
+    "answer": "benar"
+  },
+  {
+    "index": 440,
+    "question": "Paru-paru berfungsi memompa darah.",
+    "answer": "salah"
+  },
+  {
+    "index": 441,
+    "question": "Bintang memancarkan cahayanya sendiri.",
+    "answer": "benar"
+  },
+  {
+    "index": 442,
+    "question": "Bulan menghasilkan cahaya sendiri.",
+    "answer": "salah"
+  },
+  {
+    "index": 443,
+    "question": "Listrik dapat mengalir melalui kabel.",
+    "answer": "benar"
+  },
+  {
+    "index": 444,
+    "question": "Kayu adalah penghantar listrik yang sangat baik.",
+    "answer": "salah"
+  },
+  {
+    "index": 445,
+    "question": "Magnet dapat menarik benda tertentu seperti besi.",
+    "answer": "benar"
+  },
+  {
+    "index": 446,
+    "question": "Magnet dapat menarik air.",
+    "answer": "salah"
+  },
+  {
+    "index": 447,
+    "question": "Kupu-kupu berasal dari ulat.",
+    "answer": "benar"
+  },
+  {
+    "index": 448,
+    "question": "Semua serangga memiliki sepuluh kaki.",
+    "answer": "salah"
+  },
+  {
+    "index": 449,
+    "question": "Bulan Ramadan adalah bulan puasa bagi umat Islam.",
+    "answer": "benar"
+  },
+  {
+    "index": 450,
+    "question": "Hari dalam satu minggu berjumlah delapan.",
+    "answer": "salah"
+  },
+    {
+    "index": 451,
+    "question": "Semut hidup secara berkelompok.",
+    "answer": "benar"
+  },
+  {
+    "index": 452,
+    "question": "Laba-laba memiliki enam kaki.",
+    "answer": "salah"
+  },
+  {
+    "index": 453,
+    "question": "Lebah dapat menghasilkan madu.",
+    "answer": "benar"
+  },
+  {
+    "index": 454,
+    "question": "Nyamuk memakan batu.",
+    "answer": "salah"
+  },
+  {
+    "index": 455,
+    "question": "Kucing memiliki kumis yang membantu indra perabanya.",
+    "answer": "benar"
+  },
+  {
+    "index": 456,
+    "question": "Ikan bernapas menggunakan paru-paru.",
+    "answer": "salah"
+  },
+  {
+    "index": 457,
+    "question": "Burung memiliki sayap.",
+    "answer": "benar"
+  },
+  {
+    "index": 458,
+    "question": "Semua burung dapat berenang seperti ikan.",
+    "answer": "salah"
+  },
+  {
+    "index": 459,
+    "question": "Pohon mangga menghasilkan buah mangga.",
+    "answer": "benar"
+  },
+  {
+    "index": 460,
+    "question": "Pohon kelapa menghasilkan apel.",
+    "answer": "salah"
+  },
+  {
+    "index": 461,
+    "question": "Es akan mencair jika dipanaskan.",
+    "answer": "benar"
+  },
+  {
+    "index": 462,
+    "question": "Air akan membeku jika terus dipanaskan.",
+    "answer": "salah"
+  },
+  {
+    "index": 463,
+    "question": "Matahari terbit dari arah timur.",
+    "answer": "benar"
+  },
+  {
+    "index": 464,
+    "question": "Matahari terbit dari arah barat.",
+    "answer": "salah"
+  },
+  {
+    "index": 465,
+    "question": "Pelaut menggunakan kompas untuk membantu navigasi.",
+    "answer": "benar"
+  },
+  {
+    "index": 466,
+    "question": "Kompas menunjukkan arah atas dan bawah.",
+    "answer": "salah"
+  },
+  {
+    "index": 467,
+    "question": "Gunung merupakan bagian dari bentang alam.",
+    "answer": "benar"
+  },
+  {
+    "index": 468,
+    "question": "Laut berada di langit.",
+    "answer": "salah"
+  },
+  {
+    "index": 469,
+    "question": "Kapas dapat digunakan untuk membuat kain.",
+    "answer": "benar"
+  },
+  {
+    "index": 470,
+    "question": "Kain dibuat dari batu.",
+    "answer": "salah"
+  },
+  {
+    "index": 471,
+    "question": "Hewan membutuhkan makanan untuk bertahan hidup.",
+    "answer": "benar"
+  },
+  {
+    "index": 472,
+    "question": "Manusia tidak membutuhkan air untuk hidup.",
+    "answer": "salah"
+  },
+  {
+    "index": 473,
+    "question": "Api menghasilkan panas.",
+    "answer": "benar"
+  },
+  {
+    "index": 474,
+    "question": "Es menghasilkan panas saat disentuh.",
+    "answer": "salah"
+  },
+  {
+    "index": 475,
+    "question": "Awan terdiri dari kumpulan tetesan air atau kristal es.",
+    "answer": "benar"
+  },
+  {
+    "index": 476,
+    "question": "Awan terbuat dari pasir.",
+    "answer": "salah"
+  },
+  {
+    "index": 477,
+    "question": "Bulan mengelilingi Bumi.",
+    "answer": "benar"
+  },
+  {
+    "index": 478,
+    "question": "Bumi mengelilingi Bulan.",
+    "answer": "salah"
+  },
+  {
+    "index": 479,
+    "question": "Bermain sambil belajar dapat menambah pengetahuan.",
+    "answer": "benar"
+  },
+  {
+    "index": 480,
+    "question": "Belajar hanya bisa dilakukan saat siang hari.",
+    "answer": "salah"
+  },
+    {
+    "index": 481,
+    "question": "Kelinci memiliki telinga yang panjang.",
+    "answer": "benar"
+  },
+  {
+    "index": 482,
+    "question": "Gajah adalah hewan yang paling kecil di dunia.",
+    "answer": "salah"
+  },
+  {
+    "index": 483,
+    "question": "Zebra memiliki belang hitam dan putih.",
+    "answer": "benar"
+  },
+  {
+    "index": 484,
+    "question": "Jerapah memiliki leher yang pendek.",
+    "answer": "salah"
+  },
+  {
+    "index": 485,
+    "question": "Kuda dapat berlari dengan cepat.",
+    "answer": "benar"
+  },
+  {
+    "index": 486,
+    "question": "Siput adalah hewan yang sangat cepat.",
+    "answer": "salah"
+  },
+  {
+    "index": 487,
+    "question": "Bunga matahari cenderung menghadap ke arah matahari.",
+    "answer": "benar"
+  },
+  {
+    "index": 488,
+    "question": "Teratai tumbuh di padang pasir.",
+    "answer": "salah"
+  },
+  {
+    "index": 489,
+    "question": "Air sangat penting bagi semua makhluk hidup.",
+    "answer": "benar"
+  },
+  {
+    "index": 490,
+    "question": "Manusia dapat hidup tanpa makan dan minum selamanya.",
+    "answer": "salah"
+  },
+  {
+    "index": 491,
+    "question": "Bulan tidak memiliki cahaya sendiri.",
+    "answer": "benar"
+  },
+  {
+    "index": 492,
+    "question": "Matahari mengelilingi Bumi setiap hari.",
+    "answer": "salah"
+  },
+  {
+    "index": 493,
+    "question": "Sepatu digunakan untuk melindungi kaki.",
+    "answer": "benar"
+  },
+  {
+    "index": 494,
+    "question": "Topi dipakai di lutut.",
+    "answer": "salah"
+  },
+  {
+    "index": 495,
+    "question": "Payung membantu melindungi dari hujan.",
+    "answer": "benar"
+  },
+  {
+    "index": 496,
+    "question": "Jas hujan digunakan untuk berenang.",
+    "answer": "salah"
+  },
+  {
+    "index": 497,
+    "question": "Sepeda motor menggunakan roda.",
+    "answer": "benar"
+  },
+  {
+    "index": 498,
+    "question": "Kereta api terbang di langit.",
+    "answer": "salah"
+  },
+  {
+    "index": 499,
+    "question": "Kapal berlayar di atas air.",
+    "answer": "benar"
+  },
+  {
+    "index": 500,
+    "question": "Pesawat terbang berjalan di bawah laut.",
+    "answer": "salah"
+  },
+  {
+    "index": 501,
+    "question": "Matematika mempelajari angka dan perhitungan.",
+    "answer": "benar"
+  },
+  {
+    "index": 502,
+    "question": "Bahasa Indonesia adalah pelajaran tentang planet.",
+    "answer": "salah"
+  },
+  {
+    "index": 503,
+    "question": "IPA mempelajari makhluk hidup dan alam.",
+    "answer": "benar"
+  },
+  {
+    "index": 504,
+    "question": "IPS hanya mempelajari cara memasak.",
+    "answer": "salah"
+  },
+  {
+    "index": 505,
+    "question": "Buku tulis digunakan untuk mencatat.",
+    "answer": "benar"
+  },
+  {
+    "index": 506,
+    "question": "Penghapus digunakan untuk memotong kayu.",
+    "answer": "salah"
+  },
+  {
+    "index": 507,
+    "question": "Penggaris digunakan untuk mengukur panjang.",
+    "answer": "benar"
+  },
+  {
+    "index": 508,
+    "question": "Spidol digunakan untuk menyiram tanaman.",
+    "answer": "salah"
+  },
+  {
+    "index": 509,
+    "question": "Tas sekolah digunakan membawa perlengkapan belajar.",
+    "answer": "benar"
+  },
+  {
+    "index": 510,
+    "question": "Meja belajar digunakan untuk tidur sepanjang hari.",
+    "answer": "salah"
+  },
+  {
+    "index": 511,
+    "question": "Belajar dengan tekun dapat meningkatkan kemampuan.",
+    "answer": "benar"
+  },
+  {
+    "index": 512,
+    "question": "Menyontek adalah kebiasaan yang baik.",
+    "answer": "salah"
+  },
+  {
+    "index": 513,
+    "question": "Kejujuran adalah sikap yang baik.",
+    "answer": "benar"
+  },
+  {
+    "index": 514,
+    "question": "Berbohong adalah perilaku yang terpuji.",
+    "answer": "salah"
+  },
+  {
+    "index": 515,
+    "question": "Disiplin membantu mencapai tujuan.",
+    "answer": "benar"
+  },
+  {
+    "index": 516,
+    "question": "Datang terlambat setiap hari menunjukkan kedisiplinan.",
+    "answer": "salah"
+  },
+  {
+    "index": 517,
+    "question": "Gotong royong merupakan budaya Indonesia.",
+    "answer": "benar"
+  },
+  {
+    "index": 518,
+    "question": "Gotong royong berarti bekerja sendirian.",
+    "answer": "salah"
+  },
+  {
+    "index": 519,
+    "question": "Menghormati orang tua adalah perbuatan baik.",
+    "answer": "benar"
+  },
+  {
+    "index": 520,
+    "question": "Mengejek teman adalah sikap terpuji.",
+    "answer": "salah"
+  },
+  {
+    "index": 521,
+    "question": "Berbagi dengan sesama adalah tindakan baik.",
+    "answer": "benar"
+  },
+  {
+    "index": 522,
+    "question": "Membuang sampah sembarangan menjaga kebersihan.",
+    "answer": "salah"
+  },
+  {
+    "index": 523,
+    "question": "Mencuci tangan sebelum makan membantu menjaga kesehatan.",
+    "answer": "benar"
+  },
+  {
+    "index": 524,
+    "question": "Menggosok gigi hanya perlu dilakukan setahun sekali.",
+    "answer": "salah"
+  },
+  {
+    "index": 525,
+    "question": "Olahraga membuat tubuh lebih bugar.",
+    "answer": "benar"
+  },
+  {
+    "index": 526,
+    "question": "Berolahraga membuat tubuh selalu lemah.",
+    "answer": "salah"
+  },
+  {
+    "index": 527,
+    "question": "Buah dan sayur baik dikonsumsi setiap hari.",
+    "answer": "benar"
+  },
+  {
+    "index": 528,
+    "question": "Permen dapat menggantikan semua kebutuhan makanan.",
+    "answer": "salah"
+  },
+  {
+    "index": 529,
+    "question": "Air putih lebih sehat daripada minuman bersoda jika diminum sehari-hari.",
+    "answer": "benar"
+  },
+  {
+    "index": 530,
+    "question": "Minuman bersoda wajib diminum setiap saat agar sehat.",
+    "answer": "salah"
+  },
+  {
+    "index": 531,
+    "question": "Tidur cukup membantu tubuh beristirahat.",
+    "answer": "benar"
+  },
+  {
+    "index": 532,
+    "question": "Tidur satu jam setiap hari sudah cukup untuk semua orang.",
+    "answer": "salah"
+  },
+  {
+    "index": 533,
+    "question": "Hutan merupakan habitat berbagai hewan.",
+    "answer": "benar"
+  },
+  {
+    "index": 534,
+    "question": "Semua ikan hidup di gurun pasir.",
+    "answer": "salah"
+  },
+  {
+    "index": 535,
+    "question": "Laut merupakan tempat hidup banyak makhluk laut.",
+    "answer": "benar"
+  },
+  {
+    "index": 536,
+    "question": "Paus hidup di puncak gunung.",
+    "answer": "salah"
+  },
+  {
+    "index": 537,
+    "question": "Burung membuat sarang untuk bertelur.",
+    "answer": "benar"
+  },
+  {
+    "index": 538,
+    "question": "Ayam melahirkan anak.",
+    "answer": "salah"
+  },
+  {
+    "index": 539,
+    "question": "Kupu-kupu membantu penyerbukan bunga.",
+    "answer": "benar"
+  },
+  {
+    "index": 540,
+    "question": "Lebah tidak pernah mengunjungi bunga.",
+    "answer": "salah"
+  },
+  {
+    "index": 541,
+    "question": "Sungai mengalir dari tempat tinggi ke tempat rendah.",
+    "answer": "benar"
+  },
+  {
+    "index": 542,
+    "question": "Air sungai mengalir ke langit.",
+    "answer": "salah"
+  },
+  {
+    "index": 543,
+    "question": "Angin adalah udara yang bergerak.",
+    "answer": "benar"
+  },
+  {
+    "index": 544,
+    "question": "Angin memiliki warna hijau.",
+    "answer": "salah"
+  },
+  {
+    "index": 545,
+    "question": "Petir biasanya terjadi saat cuaca buruk.",
+    "answer": "benar"
+  },
+  {
+    "index": 546,
+    "question": "Petir muncul karena matahari tersenyum.",
+    "answer": "salah"
+  },
+  {
+    "index": 547,
+    "question": "Musim hujan ditandai dengan curah hujan yang tinggi.",
+    "answer": "benar"
+  },
+  {
+    "index": 548,
+    "question": "Musim kemarau selalu turun hujan setiap hari.",
+    "answer": "salah"
+  },
+  {
+    "index": 549,
+    "question": "Gunung berapi dapat meletus.",
+    "answer": "benar"
+  },
+  {
+    "index": 550,
+    "question": "Semua gunung berada di bawah laut.",
+    "answer": "salah"
+  },
+  {
+    "index": 551,
+    "question": "Peta membantu mengetahui letak suatu wilayah.",
+    "answer": "benar"
+  },
+  {
+    "index": 552,
+    "question": "Globe berbentuk kubus.",
+    "answer": "salah"
+  },
+  {
+    "index": 553,
+    "question": "Bintang dapat terlihat pada malam yang cerah.",
+    "answer": "benar"
+  },
+  {
+    "index": 554,
+    "question": "Matahari terlihat jelas pada tengah malam.",
+    "answer": "salah"
+  },
+  {
+    "index": 555,
+    "question": "Udara bersih penting untuk kesehatan.",
+    "answer": "benar"
+  },
+  {
+    "index": 556,
+    "question": "Asap tebal membuat udara menjadi lebih sehat.",
+    "answer": "salah"
+  },
+  {
+    "index": 557,
+    "question": "Menanam pohon dapat membantu mengurangi polusi udara.",
+    "answer": "benar"
+  },
+  {
+    "index": 558,
+    "question": "Menebang semua pohon membuat udara semakin segar.",
+    "answer": "salah"
+  },
+  {
+    "index": 559,
+    "question": "Menjaga kebersihan lingkungan adalah tanggung jawab bersama.",
+    "answer": "benar"
+  },
+  {
+    "index": 560,
+    "question": "Lingkungan yang bersih lebih mudah menyebabkan penyakit daripada lingkungan yang kotor.",
+    "answer": "salah"
+  },
+    {
+    "index": 561,
+    "question": "Bumi berbentuk persegi.",
+    "answer": "salah"
+  },
+  {
+    "index": 562,
+    "question": "Matahari mengelilingi Bulan.",
+    "answer": "salah"
+  },
+  {
+    "index": 563,
+    "question": "Semua ikan hidup di darat.",
+    "answer": "salah"
+  },
+  {
+    "index": 564,
+    "question": "Kucing berkembang biak dengan bertelur.",
+    "answer": "salah"
+  },
+  {
+    "index": 565,
+    "question": "Air mendidih pada suhu 20°C di permukaan laut.",
+    "answer": "salah"
+  },
+  {
+    "index": 566,
+    "question": "Pelangi hanya memiliki dua warna.",
+    "answer": "salah"
+  },
+  {
+    "index": 567,
+    "question": "Burung bernapas menggunakan insang.",
+    "answer": "salah"
+  },
+  {
+    "index": 568,
+    "question": "Kompas digunakan untuk mengukur suhu tubuh.",
+    "answer": "salah"
+  },
+  {
+    "index": 569,
+    "question": "Pensil terbuat dari kaca.",
+    "answer": "salah"
+  },
+  {
+    "index": 570,
+    "question": "Pohon tidak membutuhkan air untuk hidup.",
+    "answer": "salah"
+  },
+  {
+    "index": 571,
+    "question": "Jantung berada di dalam kaki manusia.",
+    "answer": "salah"
+  },
+  {
+    "index": 572,
+    "question": "Bulan adalah bintang terbesar.",
+    "answer": "salah"
+  },
+  {
+    "index": 573,
+    "question": "Harimau adalah hewan herbivora.",
+    "answer": "salah"
+  },
+  {
+    "index": 574,
+    "question": "Es akan semakin panas jika dimasukkan ke dalam freezer.",
+    "answer": "salah"
+  },
+  {
+    "index": 575,
+    "question": "Gunung Everest berada di Indonesia.",
+    "answer": "salah"
+  },
+  {
+    "index": 576,
+    "question": "Ayam memiliki delapan kaki.",
+    "answer": "salah"
+  },
+  {
+    "index": 577,
+    "question": "Baterai menghasilkan air minum.",
+    "answer": "salah"
+  },
+  {
+    "index": 578,
+    "question": "Mobil berjalan menggunakan sayap.",
+    "answer": "salah"
+  },
+  {
+    "index": 579,
+    "question": "Sungai mengalir dari laut ke gunung.",
+    "answer": "salah"
+  },
+  {
+    "index": 580,
+    "question": "Indonesia memiliki ibu kota di Bulan.",
+    "answer": "salah"
+  }
+]
